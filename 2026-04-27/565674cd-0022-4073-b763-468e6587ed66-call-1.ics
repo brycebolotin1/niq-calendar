@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1f89ffab6c35b736-1@daily.newissueiq
+DTSTAMP:20260428T155522Z
+DTSTART;TZID=America/New_York:20260203T110000
+DTEND;TZID=America/New_York:20260203T114500
+SUMMARY:MAISTR — Call #1
+DESCRIPTION:Company Representatives: Dwayne Hyzak (CEO)\, Ryan Nelson (CFO & Treasurer)\nIssuer: MAIN STREET CAPITAL CORP (MAISTR)\nRoadshow: Call #1: 11:00AM ET / 10:00AM CT - https://www.netroadshow.com/events/login/LE9zwo49flYDLzGYuQmniTwc9r3y6PQSXAd\; Call #2: 1:00PM ET / 12:00PM CT - https://www.netroadshow.com/events/login/LE9zwo3hUbUvaolPRlAP2cO53c0QGCCAr1s\n\nDeal context:\nMain Street Capital Corporation\, a BBB- rated (S&P and Fitch) principal investment firm\, has mandated RBC Capital Markets\, J.P. Morgan\, SMBC Nikko\, and Truist Securities to arrange fixed income investor calls scheduled for Tuesday\, February 3rd\, 2026\, with a potential capital markets transaction to follow subject to market conditions. The deal is at the mandate stage with two investor call sessions scheduled at 11:00AM ET and 1:00PM ET\, featuring CEO Dwayne Hyzak and CFO Ryan Nelson\, with virtual presentations available through NetRoadshow. No specific deal size\, tenor\, or security type has been disclosed at this stage.
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

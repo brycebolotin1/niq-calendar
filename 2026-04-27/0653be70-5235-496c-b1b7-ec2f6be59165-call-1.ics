@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7df4eb2410013349-1@daily.newissueiq
+DTSTAMP:20260428T155521Z
+DTSTART;TZID=America/New_York:20260204T090000
+DTEND;TZID=America/New_York:20260204T094500
+SUMMARY:TINY CN — Global Investor Call
+DESCRIPTION:Global investor call at 3pm CET / 9am EST\nIssuer: TINY LTD (TINY CN)\n\nDeal context:\nTiny Ltd. has mandated Pareto Securities and ATB Cormark Capital Markets for a $110 million 5-year senior secured bond offering\, with fixed income investor meetings scheduled to commence February 3rd. The deal\, subject to market conditions\, will be used to refinance existing debt and finance general corporate purposes\, with global investor calls scheduled for February 4th at 3pm CET/9am EST and February 5th at the same times\, and management available for one-on-one meetings from February 3rd through 6th.
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
