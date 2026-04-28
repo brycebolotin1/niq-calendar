@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:26f1b413b3ac4d07-1@daily.newissueiq
-DTSTAMP:20260428T182506Z
+DTSTAMP:20260428T183909Z
 DTSTART;TZID=America/New_York:20260205T100000
 DTEND;TZID=America/New_York:20260205T104500
 SUMMARY:NBHC — Fixed Income Investor Call
-DESCRIPTION:Fixed income investor call. Coordinated by Piper Sandler.\nIssuer: NATL BANK HOLDINGS (NBHC)\n\nDeal context:\nNational Bank Holdings has mandated Piper Sandler to organize fixed income investor calls on February 5-6\, 2026\, ahead of a potential SEC-registered subordinated notes offering from the holding company. The deal is subject to market conditions and carries expected Moody's ratings of Baa2 with a negative outlook\, positioning this as an investment grade transaction. No specific size or tenor has been disclosed at this mandate stage.
+DESCRIPTION:Fixed income investor call. Piper Sandler coordinating logistics.\nIssuer: NATL BANK HOLDINGS (NBHC)\n\nDeal context:\nNational Bank Holdings has mandated Piper Sandler to organize fixed income investor calls on February 5-6\, 2026\, ahead of a potential SEC-registered subordinated notes offering from the holding company. The deal is subject to market conditions and carries expected Moody's ratings of Baa2 with a negative outlook\, positioning this as an investment grade transaction. No specific size or tenor has been disclosed at this mandate stage.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
