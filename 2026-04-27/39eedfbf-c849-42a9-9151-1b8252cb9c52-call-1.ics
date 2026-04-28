@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:df4670ff88f9d57b-1@daily.newissueiq
-DTSTAMP:20260428T162045Z
+DTSTAMP:20260428T163921Z
 DTSTART;TZID=America/New_York:20260422T150000
 DTEND;TZID=America/New_York:20260422T160000
 SUMMARY:SAMMON — Investor Call
-DESCRIPTION:Speakers: David Attaway (SVP & CFO)\, Sergi Turabelidze (SVP & Chief Investment Officer). Registration: https://evercall.co/oacc/42121. Replay available through April 29\, 2026. IR Website: https://www.sammonsfinancialgroup.com/about-us/investor-relations\nIssuer: SAMMONS FINL GROUP INC (SAMMON)\nRoadshow: URL: https://dealroadshow.com | Entry Code: SAMMON2026 | Direct Link: https://dealroadshow.com/e/SAMMON2026\n\nDeal context:\nSammons Financial Group\, Inc. (SAMMON) has arranged a semi-annual fixed income investor update call scheduled for Wednesday\, April 22nd\, 2026\, at 3:00PM–4:00PM ET\, coordinated by Wells Fargo Securities. This is not a new bond issuance announcement but rather an investor relations update call where management will review 2025 financial results and discuss 2026 priorities\, with an investor presentation available via Deal Roadshow. As of December 31st\, 2025\, the Company reported $145.2 billion in assets under management and $12.2 billion in adjusted GAAP shareholders' equity.
+DESCRIPTION:Pre-Registration: https://evercall.co/oacc/42121. Speakers: David Attaway (SVP & CFO)\, Sergi Turabelidze (SVP & CIO). Replay available through Wednesday\, April 29th\, 2026. IR Website: https://www.sammonsfinancialgroup.com/about-us/investor-relations\nIssuer: SAMMONS FINL GROUP INC (SAMMON)\nRoadshow: URL: https://dealroadshow.com | Entry Code: SAMMON2026 | Direct Link: https://dealroadshow.com/e/SAMMON2026\n\nDeal context:\nSammons Financial Group\, Inc. (SAMMON) has arranged a semi-annual fixed income investor update call scheduled for Wednesday\, April 22nd\, 2026\, at 3:00PM–4:00PM ET\, coordinated by Wells Fargo Securities. This is not a new bond issuance announcement but rather an investor relations update call where management will review 2025 financial results and discuss 2026 priorities\, with an investor presentation available via Deal Roadshow. As of December 31st\, 2025\, the Company reported $145.2 billion in assets under management and $12.2 billion in adjusted GAAP shareholders' equity.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
