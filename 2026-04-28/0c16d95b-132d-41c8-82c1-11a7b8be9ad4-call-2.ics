@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:eeea453aea947f2c-2@daily.newissueiq
+DTSTAMP:20260428T182725Z
+DTSTART;TZID=America/New_York:20260428T130000
+DTEND;TZID=America/New_York:20260428T134500
+SUMMARY:AEGON FUNDING CO LLC — Aegon Investor Call #2
+DESCRIPTION:Aegon Ltd investor call. Participants: Yves Cormier (Global Head of Investor Relations\, Treasury & Ratings)\, Marvin Brizee (Senior Vice President and Head of Group Treasury)\, Lein Pieter Cevaal (Head of Capital Markets Solutions). Registration: https://evercall.co/events/aegon-deal-roadshow-investor-call\nIssuer: AEGON FUNDING CO LLC\nRoadshow: DealRoadshow Details: URL: https://dealroadshow.com | Entry Code: AEGON2026 | Direct Link: https://dealroadshow.com/e/AEGON2026\n\nDeal context:\nAegon Funding Company LLC\, a wholly-owned subsidiary of Aegon Ltd (rated Baa1/BBB+ stable by Moody's/S&P)\, has mandated five joint book-running managers — BofA Securities\, Citigroup\, Deutsche Bank Securities\, Morgan Stanley\, and Wells Fargo Securities — to arrange fixed income investor calls commencing April 28\, 2026\, ahead of a planned benchmark USD-denominated Senior Notes offering due 2036 in SEC registered format. The notes will be guaranteed on a senior unsecured basis by Aegon Ltd and are expected to carry the same Baa1/BBB+ ratings as the parent. No size\, pricing\, or spread guidance has been disclosed at this mandate stage\, with the offering subject to market conditions.
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

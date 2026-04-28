@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5b104f97d055de68-1@daily.newissueiq
+DTSTAMP:20260428T182713Z
+DTSTART;TZID=America/New_York:20260429T084500
+DTEND;TZID=America/New_York:20260429T093000
+SUMMARY:FULT — Small Group Call #1
+DESCRIPTION:Small group investor call\nIssuer: FULTON FINL CORP (FULT)\n\nDeal context:\nFulton Financial Corporation is conducting fixed income investor calls on April 29-30\, organized by Piper Sandler and J.P. Morgan\, ahead of a potential subordinated notes offering. Subject to market conditions\, the holding company plans an SEC-registered offering of subordinated notes with expected ratings of Baa2 (Moody's) and BBB(high) (Morningstar DBRS)\, placing the deal firmly in Investment Grade territory. No size\, tenor\, or pricing details have been disclosed at this mandate stage\, with Piper Sandler coordinating logistics for the investor calls.
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
