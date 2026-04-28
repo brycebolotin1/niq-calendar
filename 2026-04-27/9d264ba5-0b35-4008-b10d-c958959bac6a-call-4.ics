@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5fb4ec398e0a798d-4@daily.newissueiq
-DTSTAMP:20260428T174503Z
+DTSTAMP:20260428T175323Z
 DTSTART;TZID=America/New_York:20260430T083000
 DTEND;TZID=America/New_York:20260430T091500
 SUMMARY:FULT — Small Group Call #3
-DESCRIPTION:Register via provided links or contact Piper Sandler at fsg-dcm@psc.com\nIssuer: FULTON FINL CORP (FULT)\n\nDeal context:\nFulton Financial Corporation is conducting fixed income investor calls on April 29-30\, organized by Piper Sandler and J.P. Morgan\, ahead of a potential subordinated notes offering. Subject to market conditions\, the holding company plans an SEC-registered offering of subordinated notes with expected ratings of Baa2 (Moody's) and BBB(high) (Morningstar DBRS)\, placing the deal firmly in Investment Grade territory. No size\, tenor\, or pricing details have been disclosed at this mandate stage\, with Piper Sandler coordinating logistics for the investor calls.
+DESCRIPTION:Small group investor call\nIssuer: FULTON FINL CORP (FULT)\n\nDeal context:\nFulton Financial Corporation is conducting fixed income investor calls on April 29-30\, organized by Piper Sandler and J.P. Morgan\, ahead of a potential subordinated notes offering. Subject to market conditions\, the holding company plans an SEC-registered offering of subordinated notes with expected ratings of Baa2 (Moody's) and BBB(high) (Morningstar DBRS)\, placing the deal firmly in Investment Grade territory. No size\, tenor\, or pricing details have been disclosed at this mandate stage\, with Piper Sandler coordinating logistics for the investor calls.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

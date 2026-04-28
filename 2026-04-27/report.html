@@ -9,11 +9,14 @@
     font-size: 14px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
   a { text-decoration: none; }
 
-  /* deal table: white throughout, only horizontal rules */
+  /* deal table: white throughout, only horizontal rules. Width is 100%
+     of its container so it tracks the wrapper as the email window
+     resizes. Headers ARE allowed to wrap so narrow viewports don't get
+     blocked by minimum-content width. */
   .data { width: 100%; border-collapse: collapse; font-size: 13.5px; }
   .data th { text-align:left; padding: 12px 10px; color:#94A3B8; font-weight: 700;
     font-size: 11px; text-transform: uppercase; letter-spacing: .08em;
-    background:#ffffff; border-bottom: 1px solid #E5E7EB; white-space: nowrap; }
+    background:#ffffff; border-bottom: 1px solid #E5E7EB; }
   .data td { padding: 13px 10px; vertical-align: top;
     border-bottom: 1px solid #F1F3F6; font-weight: 500; }
   .data tbody { border-bottom: 1px solid #E5E7EB; }
@@ -48,7 +51,7 @@
 <body>
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#ffffff">
 <tr><td align="center">
-  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="1240" style="max-width:1240px;background:#ffffff;margin:0 auto">
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="width:100%;max-width:1240px;background:#ffffff;margin:0 auto">
 
     <!-- PREHEADER (view in browser) -->
     <tr><td style="padding:10px 28px;background:#FAFBFC;border-bottom:1px solid #E5E7EB;color:#475569;font-size:12px;text-align:right">Having trouble viewing? <a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/report.html" style="color:#235BA2;font-weight:600;text-decoration:underline">Open in browser</a></td></tr>
@@ -292,7 +295,7 @@
              <td class="issuer-cell" rowspan="1"><span class="issuer">OXFORD FINANCE LLC &amp; OXFORD FINANCE CO-ISSUER II INC</span><span class="ticker">OXDFLL</span><span class="when">Pricing 04/28/26</span></td>
         <td>Ba3/B/BB-</td>
         <td>Sr Unsec</td>
-        <td>5Y<span style="color:#949499;font-size:11px"> 04/29/30</span></td>
+        <td>5Y<span style="color:#949499;font-size:11px"> 04/29/31</span></td>
         <td>FXD</td>
         <td class="num">$600mm</td>
         <td>8.25%A</td>
@@ -360,7 +363,7 @@
       <td colspan="4" style="padding:11px 10px;vertical-align:top;text-align:right"><div style="font-size:12.5px;color:#475569;line-height:1.5">BBB-/BBB-<span style="color:#E5E7EB"> · </span>FXD</div></td>
     </tr></tbody><tbody><tr>
       <td class="status-cell" style="padding:11px 14px;vertical-align:top"><div><span style="display:inline-block;border:1px solid #64748B;color:#64748B;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">MAND</span></div><div style="margin-top:5px"><span style="display:inline-block;border:1px solid #235BA2;color:#235BA2;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">IG</span></div></td>
-      <td class="issuer-cell" colspan="7" style="padding:11px 10px;vertical-align:top"><span class="issuer">NATL BANK HOLDINGS</span><span class="ticker">NBHC</span><span class="when">Pricing 02/03/26</span><div style="margin-top:6px;font-size:11.5px;color:#475569"><span style="color:#94A3B8">📅 Add to calendar:</span> <a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/41a50556-7882-495d-be9f-b473b47f7c5c-call-1.ics" style="color:#235BA2;text-decoration:none;font-weight:600">2/5 10:00a</a><span style="color:#94A3B8"> · </span><a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/41a50556-7882-495d-be9f-b473b47f7c5c-call-2.ics" style="color:#235BA2;text-decoration:none;font-weight:600">2/6 10:00a</a></div></td>
+      <td class="issuer-cell" colspan="7" style="padding:11px 10px;vertical-align:top"><span class="issuer">NATL BANK HOLDINGS</span><span class="ticker">NBHC</span><span class="when">Pricing 02/03/26</span><div style="margin-top:6px;font-size:11.5px;color:#475569"><span style="color:#94A3B8">📅 Add to calendar:</span> <a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/41a50556-7882-495d-be9f-b473b47f7c5c-call-1.ics" style="color:#235BA2;text-decoration:none;font-weight:600">2/5 9:00a</a><span style="color:#94A3B8"> · </span><a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/41a50556-7882-495d-be9f-b473b47f7c5c-call-2.ics" style="color:#235BA2;text-decoration:none;font-weight:600">2/6 9:00a</a></div></td>
       <td colspan="4" style="padding:11px 10px;vertical-align:top;text-align:right"><div style="font-size:12.5px;color:#475569;line-height:1.5">Baa2<span style="color:#E5E7EB"> · </span>FXD<span style="color:#E5E7EB"> · </span>SEC Reg</div></td>
     </tr></tbody><tbody><tr>
       <td class="status-cell" style="padding:11px 14px;vertical-align:top"><div><span style="display:inline-block;border:1px solid #64748B;color:#64748B;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">MAND</span></div><div style="margin-top:5px"><span style="display:inline-block;border:1px solid #235BA2;color:#235BA2;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">IG</span></div></td>
@@ -376,7 +379,7 @@
       <td colspan="4" style="padding:11px 10px;vertical-align:top;text-align:right"><div style="font-size:12.5px;color:#475569;line-height:1.5">Sr Sec<span style="color:#E5E7EB"> · </span>5Y<span style="color:#E5E7EB"> · </span>FXD<span style="color:#E5E7EB"> · </span>Reg S</div></td>
     </tr></tbody><tbody><tr>
       <td class="status-cell" style="padding:11px 14px;vertical-align:top"><div><span style="display:inline-block;border:1px solid #64748B;color:#64748B;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">MAND</span></div><div style="margin-top:5px"><span style="display:inline-block;border:1px solid #235BA2;color:#235BA2;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">IG</span></div></td>
-      <td class="issuer-cell" colspan="7" style="padding:11px 10px;vertical-align:top"><span class="issuer">SUMISHO AIR LEASE CORP DAC</span><span class="ticker">2598357D US</span><span class="when">Pricing 03/09/26</span><div style="margin-top:6px;font-size:11.5px;color:#475569"><span style="color:#94A3B8">📅 Add to calendar:</span> <a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/bb1712fb-947e-4a6c-b776-7587d5997938-call-1.ics" style="color:#235BA2;text-decoration:none;font-weight:600">3/9 9:00a</a><span style="color:#94A3B8"> · </span><a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/bb1712fb-947e-4a6c-b776-7587d5997938-call-2.ics" style="color:#235BA2;text-decoration:none;font-weight:600">3/10 9:00a</a></div><div style="margin-top:3px;font-size:11.5px"><a href="https://dealroadshow.com/e/Sumisho2026" style="color:#235BA2;text-decoration:none;font-weight:600">🎥 Roadshow</a></div><div style="margin-top:2px;font-size:10.5px;color:#94A3B8;line-height:1.4">Passcode: Sumisho2026</div></td>
+      <td class="issuer-cell" colspan="7" style="padding:11px 10px;vertical-align:top"><span class="issuer">SUMISHO AIR LEASE CORP DAC</span><span class="ticker">2598357D US</span><span class="when">Pricing 03/09/26</span><div style="margin-top:3px;font-size:11.5px"><a href="https://dealroadshow.com/e/Sumisho2026" style="color:#235BA2;text-decoration:none;font-weight:600">🎥 Roadshow</a></div><div style="margin-top:2px;font-size:10.5px;color:#94A3B8;line-height:1.4">Passcode: Sumisho2026</div></td>
       <td colspan="4" style="padding:11px 10px;vertical-align:top;text-align:right"><div style="font-size:12.5px;color:#475569;line-height:1.5">BBB/BBB/A-<span style="color:#E5E7EB"> · </span>Sr Unsec<span style="color:#E5E7EB"> · </span>FXD<span style="color:#E5E7EB"> · </span>144A Reg S</div></td>
     </tr></tbody><tbody><tr>
       <td class="status-cell" style="padding:11px 14px;vertical-align:top"><div><span style="display:inline-block;border:1px solid #64748B;color:#64748B;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">MAND</span></div><div style="margin-top:5px"><span style="display:inline-block;border:1px solid #235BA2;color:#235BA2;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">IG</span></div></td>
@@ -400,7 +403,7 @@
       <td colspan="4" style="padding:11px 10px;vertical-align:top;text-align:right"><div style="font-size:12.5px;color:#475569;line-height:1.5">FXD</div></td>
     </tr></tbody><tbody><tr>
       <td class="status-cell" style="padding:11px 14px;vertical-align:top"><div><span style="display:inline-block;border:1px solid #64748B;color:#64748B;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">MAND</span></div><div style="margin-top:5px"><span style="display:inline-block;border:1px solid #2EA85F;color:#2EA85F;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">SSA</span></div></td>
-      <td class="issuer-cell" colspan="7" style="padding:11px 10px;vertical-align:top"><span class="issuer">FEDERATIVE REPUBLIC OF BRAZIL</span><span class="ticker">BRAZIL</span><span class="when">Pricing 04/14/26</span><div style="margin-top:3px;font-size:11.5px"><a href="https://dealroadshow.com" style="color:#235BA2;text-decoration:none;font-weight:600">🎥 Roadshow</a></div><div style="margin-top:2px;font-size:10.5px;color:#94A3B8;line-height:1.4">DealRoadshow: · Entry Code: FROB2026 or</div></td>
+      <td class="issuer-cell" colspan="7" style="padding:11px 10px;vertical-align:top"><span class="issuer">FEDERATIVE REPUBLIC OF BRAZIL</span><span class="ticker">BRAZIL</span><span class="when">Pricing 04/14/26</span><div style="margin-top:6px;font-size:11.5px;color:#475569"><span style="color:#94A3B8">📅 Add to calendar:</span> <a href="https://brycebolotin1.github.io/niq-calendar/2026-04-27/eada6873-c1f2-4417-bbfc-a82ef5c5ec8e-call-1.ics" style="color:#235BA2;text-decoration:none;font-weight:600">4/14 9:00a</a></div><div style="margin-top:3px;font-size:11.5px"><a href="https://dealroadshow.com" style="color:#235BA2;text-decoration:none;font-weight:600">🎥 Roadshow</a></div><div style="margin-top:2px;font-size:10.5px;color:#94A3B8;line-height:1.4">DealRoadshow: · Entry Code: FROB2026 or</div></td>
       <td colspan="4" style="padding:11px 10px;vertical-align:top;text-align:right"><div style="font-size:12.5px;color:#475569;line-height:1.5">Ba1/BB/BB<span style="color:#E5E7EB"> · </span>Sr Unsec<span style="color:#E5E7EB"> · </span>7Y<span style="color:#E5E7EB"> · </span>FXD<span style="color:#E5E7EB"> · </span>EUR Benchmark<span style="color:#E5E7EB"> · </span>SEC Reg</div><div style="font-size:12.5px;color:#475569;line-height:1.5">Ba1/BB/BB<span style="color:#E5E7EB"> · </span>Sr Unsec<span style="color:#E5E7EB"> · </span>10Y<span style="color:#E5E7EB"> · </span>FXD<span style="color:#E5E7EB"> · </span>EUR Benchmark<span style="color:#E5E7EB"> · </span>SEC Reg</div><div style="font-size:12.5px;color:#475569;line-height:1.5">Ba1/BB/BB<span style="color:#E5E7EB"> · </span>Sr Unsec<span style="color:#E5E7EB"> · </span>4Y<span style="color:#E5E7EB"> · </span>FXD<span style="color:#E5E7EB"> · </span>EUR Benchmark<span style="color:#E5E7EB"> · </span>SEC Reg</div></td>
     </tr></tbody><tbody><tr>
       <td class="status-cell" style="padding:11px 14px;vertical-align:top"><div><span style="display:inline-block;border:1px solid #64748B;color:#64748B;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">MAND</span></div><div style="margin-top:5px"><span style="display:inline-block;border:1px solid #235BA2;color:#235BA2;padding:3px 9px;font-weight:700;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase">IG</span></div></td>
@@ -2945,7 +2948,7 @@
       <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
         <tr>
           <td style="color:#475569;font-size:12px">Source: New Issue IQ</td>
-          <td style="color:#94A3B8;font-size:12px;text-align:right">Generated 2026-04-28 17:45 UTC</td>
+          <td style="color:#94A3B8;font-size:12px;text-align:right">Generated 2026-04-28 17:53 UTC</td>
         </tr>
       </table>
     </td></tr>
