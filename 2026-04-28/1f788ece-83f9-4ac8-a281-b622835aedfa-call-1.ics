@@ -22,11 +22,43 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3c0844096ae70b6a-1@daily.newissueiq
-DTSTAMP:20260429T151105Z
+DTSTAMP:20260429T210424Z
 DTSTART;TZID=America/New_York:20260428T100000
 DTEND;TZID=America/New_York:20260428T104500
 SUMMARY:1721549D BZ — J.P. Morgan Coordinated Event
-DESCRIPTION:J.P. Morgan coordinating logistics. Registration: https://markets.jpmorgan.com/event_booking/loadEvent?eventToken=133726_dde6888b-5a9f-434c-b43b-c74b9adc3835\nIssuer: BANCO C6 SA (1721549D BZ)\nRoadshow: URL: www.netroadshow.com | Entry Code: C6Bank | Direct Link: www.netroadshow.com/nrs/home/#!/?show=4e738787\n\nDeal context:\nBanco C6 S.A.\, a Brazilian digital bank rated Ba3/BB- (both Stable) by Moody's and Fitch respectively\, has mandated J.P. Morgan as Arranger and Joint Bookrunner alongside Bradesco BBI\, Deutsche Bank\, Goldman Sachs\, Itaú BBA\, Safra\, and UBS Investment Bank as Joint Bookrunners to arrange fixed income investor meetings beginning April 20\, 2026\, ahead of a potential USD-denominated senior unsecured benchmark-sized 144A/Reg.S bond offering with a 3-year tenor. The deal is subject to market conditions\, with IFC expressing interest as an anchor investor for up to US$50 million. This is a High Yield emerging market deal from a Brazilian digital bank with no pricing terms yet established at the mandate stage.
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ J.P. Morgan coordinating logistics. Registration: https://markets.jpmorgan
+ .com/event_booking/loadEvent?eventToken=133726_dde6888b-5a9f-434c-b43b-c74
+ b9adc3835\nIssuer: BANCO C6 SA (1721549D BZ)\nRoadshow: URL: www.netroadsh
+ ow.com | Entry Code: C6Bank | Direct Link: www.netroadshow.com/nrs/home/#!
+ /?show=4e738787\n\nDeal context:\nBanco C6 S.A.\, a Brazilian digital bank
+  rated Ba3/BB- (both Stable) by Moody's and Fitch respectively\, has manda
+ ted J.P. Morgan as Arranger and Joint Bookrunner alongside Bradesco BBI\, 
+ Deutsche Bank\, Goldman Sachs\, Itaú BBA\, Safra\, and UBS Investment Bank
+  as Joint Bookrunners to arrange fixed income investor meetings beginning 
+ April 20\, 2026\, ahead of a potential USD-denominated senior unsecured be
+ nchmark-sized 144A/Reg.S bond offering with a 3-year tenor. The deal is su
+ bject to market conditions\, with IFC expressing interest as an anchor inv
+ estor for up to US$50 million. This is a High Yield emerging market deal f
+ rom a Brazilian digital bank with no pricing terms yet established at the 
+ mandate stage.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>J.P. Morgan 
+ coordinating logistics. Registration: https://markets.jpmorgan.com/event_b
+ ooking/loadEvent?eventToken=133726_dde6888b-5a9f-434c-b43b-c74b9adc3835</p
+ ><p><strong>Issuer:</strong> BANCO C6 SA (1721549D BZ)</p><p><strong>Roads
+ how:</strong> URL: www.netroadshow.com | Entry Code: C6Bank | Direct Link:
+  www.netroadshow.com/nrs/home/#!/?show=4e738787</p><p><strong>Deal context
+ :</strong><br>Banco C6 S.A.\, a Brazilian digital bank rated Ba3/BB- (both
+  Stable) by Moody's and Fitch respectively\, has mandated J.P. Morgan as A
+ rranger and Joint Bookrunner alongside Bradesco BBI\, Deutsche Bank\, Gold
+ man Sachs\, Itaú BBA\, Safra\, and UBS Investment Bank as Joint Bookrunner
+ s to arrange fixed income investor meetings beginning April 20\, 2026\, ah
+ ead of a potential USD-denominated senior unsecured benchmark-sized 144A/R
+ eg.S bond offering with a 3-year tenor. The deal is subject to market cond
+ itions\, with IFC expressing interest as an anchor investor for up to US$5
+ 0 million. This is a High Yield emerging market deal from a Brazilian digi
+ tal bank with no pricing terms yet established at the mandate stage.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

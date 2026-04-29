@@ -22,10 +22,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:8f9aee6388bcc277-10@daily.newissueiq
-DTSTAMP:20260429T180649Z
+DTSTAMP:20260429T210451Z
 DTSTART;TZID=America/New_York:20260415T140000
 DTEND;TZID=America/New_York:20260415T144500
-SUMMARY:GENTING BERHAD — Virtual Investor Call #4
+SUMMARY:GENTING BERHAD — Virtual Call #4
 DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
  Virtual only\nIssuer: GENTING BERHAD\nRoadshow: https://www.covacap.com/s/
  ddfcf3da5e820f754f274be945aaa214\n\nDeal context:\nGenting Berhad\, a Mala
