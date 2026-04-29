@@ -22,9 +22,9 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:1fc5b02076fd2c8b-1@daily.newissueiq
-DTSTAMP:20260429T151722Z
-DTSTART;TZID=America/New_York:20260309T100000
-DTEND;TZID=America/New_York:20260309T104500
+DTSTAMP:20260429T153818Z
+DTSTART;TZID=America/New_York:20260309T090000
+DTEND;TZID=America/New_York:20260309T094500
 SUMMARY:2598357D US — Global Fixed Income Investor Call - Day 1
 DESCRIPTION:Global fixed income investor call. Coordinated by Citigroup Global Markets Inc.\nIssuer: SUMISHO AIR LEASE CORP DAC (2598357D US)\nRoadshow: https://dealroadshow.com/e/Sumisho2026 | Passcode: Sumisho2026\n\nDeal context:\nSumisho Air Lease Corporation DAC\, an Irish-domiciled entity formed in connection with the contemplated merger between its indirect subsidiary Takeoff Merger Sub Inc. and Air Lease Corporation\, is launching a USD-denominated multi-tranche 144A/Regulation S senior unsecured transaction with registration rights\, expected to carry ratings of BBB (stable) from S&P\, BBB (negative) from Fitch\, and A- from Kroll. The deal is at the Mandate stage\, with global fixed income investor calls scheduled for March 9–10\, 2026\, arranged by SMBC Nikko Securities America\, Citigroup Global Markets\, and Goldman Sachs & Co. LLC\, with Citigroup coordinating logistics. No size\, tenor\, or pricing details have been disclosed at this stage\, as the transaction is subject to market conditions following the roadshow.
 LOCATION:Conference Call

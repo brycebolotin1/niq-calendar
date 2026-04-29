@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6e9a700f2280a0f3-1@daily.newissueiq
-DTSTAMP:20260429T151658Z
+DTSTAMP:20260429T153754Z
 DTSTART;TZID=America/New_York:20260412T190000
 DTEND;TZID=America/New_York:20260412T194500
 SUMMARY:APAAU — Group Investor Call
-DESCRIPTION:Investor call held at 11:00am AEST (April 13\, 2026). Converted to ET: April 12\, 2026 at 7:00pm ET.\nIssuer: APA INFRASTRUCTURE LTD (APAAU)\nRoadshow: https://dealroadshow.com/e/APA26GIC | OR visit https://dealroadshow.com and enter deal entry code: APA26GIC\n\nDeal context:\nAPA Infrastructure Limited (APAAU)\, guaranteed by APA Group Limited and rated Baa2/BBB (Stable) by Moody's/S&P\, has mandated ANZ\, Barclays/Barrenjoey\, CBA\, NAB\, and Westpac as Joint Lead Managers for a potential AUD-denominated benchmark-sized senior unsecured and/or subordinated notes offering across multiple tenors (7.5-year\, 10-year\, 30NC7.5\, and/or 30NC10). The deal is at the Mandate stage\, with investor meetings scheduled across Melbourne\, Sydney\, Singapore\, and Hong Kong commencing Monday 13 April 2026\, and a group investor call on the same date at 11:00am AEST. Senior notes are expected to be rated Baa2/BBB while subordinated notes are expected to be rated Baa3 by Moody's\, with Barrenjoey acting as Structuring Adviser for the potential subordinated notes.
+DESCRIPTION:Investor call held at 11:00am AEST (converts to 7:00pm ET previous day)\nIssuer: APA INFRASTRUCTURE LTD (APAAU)\nRoadshow: https://dealroadshow.com/e/APA26GIC | OR visit https://dealroadshow.com and enter deal entry code: APA26GIC\n\nDeal context:\nAPA Infrastructure Limited (APAAU)\, guaranteed by APA Group Limited and rated Baa2/BBB (Stable) by Moody's/S&P\, has mandated ANZ\, Barclays/Barrenjoey\, CBA\, NAB\, and Westpac as Joint Lead Managers for a potential AUD-denominated benchmark-sized senior unsecured and/or subordinated notes offering across multiple tenors (7.5-year\, 10-year\, 30NC7.5\, and/or 30NC10). The deal is at the Mandate stage\, with investor meetings scheduled across Melbourne\, Sydney\, Singapore\, and Hong Kong commencing Monday 13 April 2026\, and a group investor call on the same date at 11:00am AEST. Senior notes are expected to be rated Baa2/BBB while subordinated notes are expected to be rated Baa3 by Moody's\, with Barrenjoey acting as Structuring Adviser for the potential subordinated notes.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
