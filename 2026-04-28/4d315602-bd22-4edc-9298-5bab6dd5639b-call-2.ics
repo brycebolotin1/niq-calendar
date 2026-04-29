@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ca73ca8beab2ae76-2@daily.newissueiq
-DTSTAMP:20260428T193153Z
+DTSTAMP:20260429T133744Z
 DTSTART;TZID=America/New_York:20260202T140000
 DTEND;TZID=America/New_York:20260202T145000
 SUMMARY:MIDCAP FINL ISSUER TR — Investor Call #2
-DESCRIPTION:Sign-up link: https://markets.jpmorgan.com/event_booking/loadEvent?eventToken=130165_b2497320-ba4d-429d-9281-4a69f8f114ad\nIssuer: MIDCAP FINL ISSUER TR\nRoadshow: www.netroadshow.com | Entry Code: MidCap2026 | Secure Link: www.netroadshow.com/nrs/home/#!/?show=6ffaa456\n\nDeal context:\nMidCap Financial Issuer Trust is arranging fixed income investor calls on February 2-3\, 2026 ahead of a potential offering of senior unsecured notes and/or junior subordinated notes via Rule 144A without registration rights. The issuer carries expected ratings of Baa2 (Stable) from Moody's and A- (Stable) from Kroll\, positioning this as an investment grade deal. J.P. Morgan\, Truist Securities\, and Wells Fargo Securities are coordinating the investor outreach\, with a NetRoadshow presentation available to qualified institutional buyers.
+DESCRIPTION:Monday\, February 2\, 2026. Sign-up: https://markets.jpmorgan.com/event_booking/loadEvent?eventToken=130165_b2497320-ba4d-429d-9281-4a69f8f114ad\nIssuer: MIDCAP FINL ISSUER TR\nRoadshow: www.netroadshow.com | Entry Code: MidCap2026 | Secure Link: www.netroadshow.com/nrs/home/#!/?show=6ffaa456\n\nDeal context:\nMidCap Financial Issuer Trust is arranging fixed income investor calls on February 2-3\, 2026 ahead of a potential offering of senior unsecured notes and/or junior subordinated notes via Rule 144A without registration rights. The issuer carries expected ratings of Baa2 (Stable) from Moody's and A- (Stable) from Kroll\, positioning this as an investment grade deal. J.P. Morgan\, Truist Securities\, and Wells Fargo Securities are coordinating the investor outreach\, with a NetRoadshow presentation available to qualified institutional buyers.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
