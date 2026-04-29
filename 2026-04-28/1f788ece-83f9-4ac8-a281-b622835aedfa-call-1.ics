@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3c0844096ae70b6a-1@daily.newissueiq
+DTSTAMP:20260429T140146Z
+DTSTART;TZID=America/New_York:20260428T100000
+DTEND;TZID=America/New_York:20260428T104500
+SUMMARY:1721549D BZ — J.P. Morgan Coordinated Event
+DESCRIPTION:J.P. Morgan coordinating logistics. Event booking: https://markets.jpmorgan.com/event_booking/loadEvent?eventToken=133726_dde6888b-5a9f-434c-b43b-c74b9adc3835\nIssuer: BANCO C6 SA (1721549D BZ)\nRoadshow: URL: www.netroadshow.com | Entry Code: C6Bank | Direct Link: www.netroadshow.com/nrs/home/#!/?show=4e738787\n\nDeal context:\nBanco C6 S.A.\, a Brazilian digital bank rated Ba3/BB- (both Stable) by Moody's and Fitch respectively\, has mandated J.P. Morgan as Arranger and Joint Bookrunner alongside Bradesco BBI\, Deutsche Bank\, Goldman Sachs\, Itaú BBA\, Safra\, and UBS Investment Bank as Joint Bookrunners to arrange fixed income investor meetings beginning April 20\, 2026\, ahead of a potential USD-denominated senior unsecured benchmark-sized 144A/Reg.S bond offering with a 3-year tenor. The deal is subject to market conditions\, with IFC expressing interest as an anchor investor for up to US$50 million. This is a High Yield emerging market deal from a Brazilian digital bank with no pricing terms yet established at the mandate stage.
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
