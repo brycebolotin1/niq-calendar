@@ -22,32 +22,31 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b691601a23b102a0-6@daily.newissueiq
-DTSTAMP:20260429T155845Z
+DTSTAMP:20260429T170702Z
 DTSTART;TZID=America/New_York:20260414T123000
 DTEND;TZID=America/New_York:20260414T134500
-SUMMARY:GENTING BERHAD — Small Group Call #3
-DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
- sponsibility to verify the accuracy of time and meeting details.\n\nDB off
- ice\nIssuer: GENTING BERHAD\nRoadshow: https://www.covacap.com/s/ddfcf3da5
- e820f754f274be945aaa214\n\nDeal context:\nGenting Berhad\, a Malaysian con
- glomerate\, is conducting a Non-Deal Roadshow with fixed income investor m
- eetings organized by Deutsche Bank\, J.P. Morgan\, Barclays\, and Citi acr
- oss virtual and Singapore-based sessions on April 13-15\, 2026. Senior man
- agement including CEO Dato' Sri Tan Kong Han and CFO Wong Yee Fun will par
- ticipate. No specific bond terms have been announced — this is a pre-deal 
- investor engagement at the Mandate stage.
-X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
- in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
- our responsibility to verify the accuracy of time and meeting details.</em
- ></p><p>DB office</p><p><strong>Issuer:</strong> GENTING BERHAD</p><p><str
- ong>Roadshow:</strong> https://www.covacap.com/s/ddfcf3da5e820f754f274be94
- 5aaa214</p><p><strong>Deal context:</strong><br>Genting Berhad\, a Malaysi
- an conglomerate\, is conducting a Non-Deal Roadshow with fixed income inve
- stor meetings organized by Deutsche Bank\, J.P. Morgan\, Barclays\, and Ci
- ti across virtual and Singapore-based sessions on April 13-15\, 2026. Seni
- or management including CEO Dato' Sri Tan Kong Han and CFO Wong Yee Fun wi
- ll participate. No specific bond terms have been announced — this is a pre
- -deal investor engagement at the Mandate stage.</p>
+SUMMARY:GENTING BERHAD — Small Group Call #3 @ DB Office
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ In-person at Deutsche Bank office\, Singapore\nIssuer: GENTING BERHAD\nRoa
+ dshow: https://www.covacap.com/s/ddfcf3da5e820f754f274be945aaa214\n\nDeal 
+ context:\nGenting Berhad\, a Malaysian conglomerate\, is conducting a Non-
+ Deal Roadshow with fixed income investor meetings organized by Deutsche Ba
+ nk\, J.P. Morgan\, Barclays\, and Citi across virtual and Singapore-based 
+ sessions on April 13-15\, 2026. Senior management including CEO Dato' Sri 
+ Tan Kong Han and CFO Wong Yee Fun will participate. No specific bond terms
+  have been announced — this is a pre-deal investor engagement at the Manda
+ te stage.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>In-person at
+  Deutsche Bank office\, Singapore</p><p><strong>Issuer:</strong> GENTING B
+ ERHAD</p><p><strong>Roadshow:</strong> https://www.covacap.com/s/ddfcf3da5
+ e820f754f274be945aaa214</p><p><strong>Deal context:</strong><br>Genting Be
+ rhad\, a Malaysian conglomerate\, is conducting a Non-Deal Roadshow with f
+ ixed income investor meetings organized by Deutsche Bank\, J.P. Morgan\, B
+ arclays\, and Citi across virtual and Singapore-based sessions on April 13
+ -15\, 2026. Senior management including CEO Dato' Sri Tan Kong Han and CFO
+  Wong Yee Fun will participate. No specific bond terms have been announced
+  — this is a pre-deal investor engagement at the Mandate stage.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

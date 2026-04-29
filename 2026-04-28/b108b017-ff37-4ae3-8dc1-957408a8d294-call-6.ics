@@ -22,33 +22,15 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c7aac02438c928b4-6@daily.newissueiq
-DTSTAMP:20260429T155804Z
+DTSTAMP:20260429T170631Z
 DTSTART;TZID=America/New_York:20260421T100000
 DTEND;TZID=America/New_York:20260421T105000
 SUMMARY:AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC — Call #6
-DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
- sponsibility to verify the accuracy of time and meeting details.\n\nRegist
- ration link: https://www.netroadshow.com/events/login/LE9zwo3iYNeWSVrT6dEJ
- nstpsI9of3YDh7y\nIssuer: AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING L
- LC\nRoadshow: www.netroadshow.com/nrs/home/#!/?show=15e18ffc OR www.netroa
- dshow.com\; Entry Code: ACC2026\n\nDeal context:\nAmerican Campus Communit
- ies On Campus Financing LLC and its co-issuers (Abacus PF Borrower A LLC\,
-  Abacus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)\, indirect subs
- idiaries of American Campus Communities LLC or Abacus AIV LLC (collectivel
- y 'ACC')\, have mandated SMBC Nikko\, Credit Agricole CIB\, and MUFG to ar
- range fixed income investor update calls on April 20-21\, 2026\, with expe
- cted ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may 
- follow subject to market conditions\, with SMBC Nikko coordinating logisti
- cs. No deal size\, tenor\, or pricing terms have been disclosed at this ma
- ndate stage.
-X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
- in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
- our responsibility to verify the accuracy of time and meeting details.</em
- ></p><p>Registration link: https://www.netroadshow.com/events/login/LE9zwo
- 3iYNeWSVrT6dEJnstpsI9of3YDh7y</p><p><strong>Issuer:</strong> AMERICAN CAMP
- US COMMUNITIES ON CAMPUS FINANCING LLC</p><p><strong>Roadshow:</strong> ww
- w.netroadshow.com/nrs/home/#!/?show=15e18ffc OR www.netroadshow.com\; Entr
- y Code: ACC2026</p><p><strong>Deal context:</strong><br>American Campus Co
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Registration link: https://www.netroadshow.com/events/login/LE9zwo3iYNeWSV
+ rT6dEJnstpsI9of3YDh7y\nIssuer: AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINAN
+ CING LLC\nRoadshow: www.netroadshow.com/nrs/home/#!/?show=15e18ffc OR www.
+ netroadshow.com\; Entry Code: ACC2026\n\nDeal context:\nAmerican Campus Co
  mmunities On Campus Financing LLC and its co-issuers (Abacus PF Borrower A
   LLC\, Abacus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)\, indirec
  t subsidiaries of American Campus Communities LLC or Abacus AIV LLC (colle
@@ -57,7 +39,23 @@ X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
  h expected ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offerin
  g may follow subject to market conditions\, with SMBC Nikko coordinating l
  ogistics. No deal size\, tenor\, or pricing terms have been disclosed at t
- his mandate stage.</p>
+ his mandate stage.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>Registration
+  link: https://www.netroadshow.com/events/login/LE9zwo3iYNeWSVrT6dEJnstpsI
+ 9of3YDh7y</p><p><strong>Issuer:</strong> AMERICAN CAMPUS COMMUNITIES ON CA
+ MPUS FINANCING LLC</p><p><strong>Roadshow:</strong> www.netroadshow.com/nr
+ s/home/#!/?show=15e18ffc OR www.netroadshow.com\; Entry Code: ACC2026</p><
+ p><strong>Deal context:</strong><br>American Campus Communities On Campus 
+ Financing LLC and its co-issuers (Abacus PF Borrower A LLC\, Abacus PF Bor
+ rower B LLC\, and Abacus PF Borrower JV LLC)\, indirect subsidiaries of Am
+ erican Campus Communities LLC or Abacus AIV LLC (collectively 'ACC')\, hav
+ e mandated SMBC Nikko\, Credit Agricole CIB\, and MUFG to arrange fixed in
+ come investor update calls on April 20-21\, 2026\, with expected ratings o
+ f Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may follow subject
+  to market conditions\, with SMBC Nikko coordinating logistics. No deal si
+ ze\, tenor\, or pricing terms have been disclosed at this mandate stage.</
+ p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
