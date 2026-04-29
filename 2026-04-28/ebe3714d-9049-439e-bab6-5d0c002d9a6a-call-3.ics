@@ -22,10 +22,10 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b3d1e5db7195a58a-3@daily.newissueiq
-DTSTAMP:20260429T151145Z
+DTSTAMP:20260429T151648Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T174500
-SUMMARY:GENTING BERHAD — Virtual Call #3
+SUMMARY:GENTING BERHAD — Virtual Investor Call #3
 DESCRIPTION:Virtual only\nIssuer: GENTING BERHAD\nRoadshow: https://www.covacap.com/s/ddfcf3da5e820f754f274be945aaa214\n\nDeal context:\nGenting Berhad\, a Malaysian conglomerate\, is conducting a Non-Deal Roadshow with fixed income investor meetings organized by Deutsche Bank\, J.P. Morgan\, Barclays\, and Citi across virtual and Singapore-based sessions on April 13-15\, 2026. Senior management including CEO Dato' Sri Tan Kong Han and CFO Wong Yee Fun will participate. No specific bond terms have been announced — this is a pre-deal investor engagement at the Mandate stage.
 LOCATION:Conference Call
 END:VEVENT

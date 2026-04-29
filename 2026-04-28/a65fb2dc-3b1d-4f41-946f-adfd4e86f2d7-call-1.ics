@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:85a9f9f77f19f5ec-1@daily.newissueiq
-DTSTAMP:20260429T151053Z
+DTSTAMP:20260429T151557Z
 DTSTART;TZID=America/New_York:20260428T100000
 DTEND;TZID=America/New_York:20260428T104500
-SUMMARY:COX ASSET MEXICO SA DE C V — Virtual Fixed Income Investor Call
-DESCRIPTION:Virtual fixed income investor call coordinated by Deutsche Bank Securities. Specific time and dial-in details not provided in source material.\nIssuer: COX ASSET MEXICO SA DE C V\nRoadshow: URL: https://dealroadshow.com | Entry Code: COX2026 | Direct Link: https://dealroadshow.com/e/COX2026\n\nDeal context:\nCox Asset Mexico\, SA de CV — a special purpose vehicle created by Cox ABG Group\, SA to acquire Iberdrola México\, SA de CV — has mandated Barclays\, Citigroup\, Deutsche Bank Securities\, and Goldman Sachs as Global Coordinators and Joint Bookrunners\, alongside BBVA\, Santander\, and Scotiabank as Joint Bookrunners\, for a dual-tranche USD-denominated 144A/Reg S Senior Secured Notes offering. The deal is expected to consist of a long 5-year and a 10-year benchmark-sized tranche with expected ratings of BBB- (Fitch) and Ba1 (Moody's)\, with investor calls commencing Tuesday\, April 28\, 2026\, subject to market conditions. This is an acquisition financing SPV deal with a split rating straddling the IG/HY boundary.
+SUMMARY:COX ASSET MEXICO SA DE C V — Fixed Income Investor Call
+DESCRIPTION:Virtual fixed income investor call coordinated by Deutsche Bank Securities\nIssuer: COX ASSET MEXICO SA DE C V\nRoadshow: URL: https://dealroadshow.com | Entry Code: COX2026 | Direct Link: https://dealroadshow.com/e/COX2026\n\nDeal context:\nCox Asset Mexico\, SA de CV — a special purpose vehicle created by Cox ABG Group\, SA to acquire Iberdrola México\, SA de CV — has mandated Barclays\, Citigroup\, Deutsche Bank Securities\, and Goldman Sachs as Global Coordinators and Joint Bookrunners\, alongside BBVA\, Santander\, and Scotiabank as Joint Bookrunners\, for a dual-tranche USD-denominated 144A/Reg S Senior Secured Notes offering. The deal is expected to consist of a long 5-year and a 10-year benchmark-sized tranche with expected ratings of BBB- (Fitch) and Ba1 (Moody's)\, with investor calls commencing Tuesday\, April 28\, 2026\, subject to market conditions. This is an acquisition financing SPV deal with a split rating straddling the IG/HY boundary.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

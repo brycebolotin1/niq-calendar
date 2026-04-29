@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c7aac02438c928b4-6@daily.newissueiq
-DTSTAMP:20260429T151102Z
+DTSTAMP:20260429T151606Z
 DTSTART;TZID=America/New_York:20260421T100000
 DTEND;TZID=America/New_York:20260421T105000
-SUMMARY:AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC — Call #6
-DESCRIPTION:NetRoadshow event. Registration: https://www.netroadshow.com/events/login/LE9zwo3iYNeWSVrT6dEJnstpsI9of3YDh7y\nIssuer: AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC\nRoadshow: www.netroadshow.com/nrs/home/#!/?show=15e18ffc OR www.netroadshow.com\; Entry Code: ACC2026\n\nDeal context:\nAmerican Campus Communities On Campus Financing LLC and its co-issuers (Abacus PF Borrower A LLC\, Abacus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)\, indirect subsidiaries of American Campus Communities LLC or Abacus AIV LLC (collectively 'ACC')\, have mandated SMBC Nikko\, Credit Agricole CIB\, and MUFG to arrange fixed income investor update calls on April 20-21\, 2026\, with expected ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may follow subject to market conditions\, with SMBC Nikko coordinating logistics. No deal size\, tenor\, or pricing terms have been disclosed at this mandate stage.
+SUMMARY:AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC — Investor Call #6
+DESCRIPTION:Registration link: https://www.netroadshow.com/events/login/LE9zwo3iYNeWSVrT6dEJnstpsI9of3YDh7y\nIssuer: AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC\nRoadshow: www.netroadshow.com/nrs/home/#!/?show=15e18ffc OR www.netroadshow.com\; Entry Code: ACC2026\n\nDeal context:\nAmerican Campus Communities On Campus Financing LLC and its co-issuers (Abacus PF Borrower A LLC\, Abacus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)\, indirect subsidiaries of American Campus Communities LLC or Abacus AIV LLC (collectively 'ACC')\, have mandated SMBC Nikko\, Credit Agricole CIB\, and MUFG to arrange fixed income investor update calls on April 20-21\, 2026\, with expected ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may follow subject to market conditions\, with SMBC Nikko coordinating logistics. No deal size\, tenor\, or pricing terms have been disclosed at this mandate stage.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
