@@ -22,11 +22,11 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:717f8d35d0757597-1@daily.newissueiq
-DTSTAMP:20260428T193202Z
+DTSTAMP:20260429T122038Z
 DTSTART;TZID=America/New_York:20260302T221500
 DTEND;TZID=America/New_York:20260302T231500
 SUMMARY:DALRYMPLE BAY FINANCE PTY LTD — Group Investor Call
-DESCRIPTION:Presenters: Michael Riches (Managing Director and Chief Executive Officer)\, Stephanie Commons (Chief Financial Officer). Registration: https://evercall.co/oacc/73057. Replay available for nine days via the registration link. Time zones: 14:15-15:15 AEDT / 11:15-12:15 SIN/HKG / 12:15-13:15 JPN.\nIssuer: DALRYMPLE BAY FINANCE PTY LTD\nRoadshow: https://dealroadshow.com/e/DBI2026 OR Visit: https://dealroadshow.com and enter the deal entry code: DBI2026\n\nDeal context:\nDalrymple Bay Finance Pty Ltd is making its debut in the Australian dollar bond market with a 5-year senior secured fixed rate bond. The deal is at the roadshow stage\, with investor meetings scheduled across Sydney\, Melbourne\, Singapore\, and Hong Kong from March 2–5\, 2026. No pricing\, size\, or spread guidance has been provided at this stage.
+DESCRIPTION:Presenters: Michael Riches (Managing Director and Chief Executive Officer)\, Stephanie Commons (Chief Financial Officer). Registration: https://evercall.co/oacc/73057. Replay available for nine days via the registration link. Note: Original time 14:15-15:15 AEDT converted to ET.\nIssuer: DALRYMPLE BAY FINANCE PTY LTD\nRoadshow: https://dealroadshow.com/e/DBI2026 OR Visit: https://dealroadshow.com and enter the deal entry code: DBI2026\n\nDeal context:\nDalrymple Bay Finance Pty Ltd is making its debut in the Australian dollar bond market with a 5-year senior secured fixed rate bond. The deal is at the roadshow stage\, with investor meetings scheduled across Sydney\, Melbourne\, Singapore\, and Hong Kong from March 2–5\, 2026. No pricing\, size\, or spread guidance has been provided at this stage.
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
