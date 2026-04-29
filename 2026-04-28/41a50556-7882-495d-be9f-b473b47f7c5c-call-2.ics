@@ -22,11 +22,32 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:797f16e6994cd489-2@daily.newissueiq
-DTSTAMP:20260429T153905Z
+DTSTAMP:20260429T160009Z
 DTSTART;TZID=America/New_York:20260206T100000
 DTEND;TZID=America/New_York:20260206T104500
-SUMMARY:NBHC — Fixed Income Investor Call - Day 2
-DESCRIPTION:Fixed income investor call. Piper Sandler coordinating logistics.\nIssuer: NATL BANK HOLDINGS (NBHC)\n\nDeal context:\nNational Bank Holdings has mandated Piper Sandler to organize fixed income investor calls on February 5-6\, 2026\, ahead of a potential SEC-registered subordinated notes offering from the holding company. The deal is subject to market conditions and carries expected Moody's ratings of Baa2 with a negative outlook\, positioning this as an investment grade transaction. No specific size or tenor has been disclosed at this mandate stage.
+SUMMARY:NBHC — Fixed Income Investor Call
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nFixed 
+ income investor call. Piper Sandler coordinating logistics.\nIssuer: NATL 
+ BANK HOLDINGS (NBHC)\n\nDeal context:\nNational Bank Holdings has mandated
+  Piper Sandler to organize fixed income investor calls on February 5-6\, 2
+ 026\, ahead of a potential SEC-registered subordinated notes offering from
+  the holding company. The deal is subject to market conditions and carries
+  expected Moody's ratings of Baa2 with a negative outlook\, positioning th
+ is as an investment grade transaction. No specific size or tenor has been 
+ disclosed at this mandate stage.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Fixed income investor call. Piper Sandler coordinating logistics.<
+ /p><p><strong>Issuer:</strong> NATL BANK HOLDINGS (NBHC)</p><p><strong>Dea
+ l context:</strong><br>National Bank Holdings has mandated Piper Sandler t
+ o organize fixed income investor calls on February 5-6\, 2026\, ahead of a
+  potential SEC-registered subordinated notes offering from the holding com
+ pany. The deal is subject to market conditions and carries expected Moody'
+ s ratings of Baa2 with a negative outlook\, positioning this as an investm
+ ent grade transaction. No specific size or tenor has been disclosed at thi
+ s mandate stage.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

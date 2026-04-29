@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6fd492320e82e62a-1@daily.newissueiq
+DTSTAMP:20260429T155819Z
+DTSTART;TZID=America/New_York:20260428T100000
+DTEND;TZID=America/New_York:20260428T104500
+SUMMARY:0199274D BZ — Fixed Income Investor Call
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nFixed 
+ income investor call coordinated by Itaú BBA\nIssuer: OCEANICA ENGENHARIA 
+ E CONSULTORIA SA (0199274D BZ)\nRoadshow: URL: https://dealroadshow.com | 
+ Entry Code: OCEANLUX2026 (not case sensitive) | Direct Link: https://dealr
+ oadshow.com/e/OCEANLUX2026\n\nDeal context:\nOceânica Engenharia e Consult
+ oria S.A.\, a Brazilian oil and gas subsea services company\, has mandated
+  seven joint bookrunners — Goldman Sachs\, Itaú BBA\, BTG Pactual\, Santan
+ der\, UBS Investment Bank\, Bradesco BBI\, and BCP Securities — to arrange
+  fixed income investor calls ahead of a potential USD-denominated benchmar
+ k-sized Rule 144A/Reg S senior secured 5-year bond offering. The deal is r
+ ated B3/B- (Moody's/Fitch)\, firmly in high-yield territory\, and proceeds
+  are intended to fund a tender offer for existing USD 2029 notes and gener
+ al corporate purposes. No pricing terms have been disclosed at this mandat
+ e stage\, and the offering remains subject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Fixed income investor call coordinated by Itaú BBA</p><p><strong>I
+ ssuer:</strong> OCEANICA ENGENHARIA E CONSULTORIA SA (0199274D BZ)</p><p><
+ strong>Roadshow:</strong> URL: https://dealroadshow.com | Entry Code: OCEA
+ NLUX2026 (not case sensitive) | Direct Link: https://dealroadshow.com/e/OC
+ EANLUX2026</p><p><strong>Deal context:</strong><br>Oceânica Engenharia e C
+ onsultoria S.A.\, a Brazilian oil and gas subsea services company\, has ma
+ ndated seven joint bookrunners — Goldman Sachs\, Itaú BBA\, BTG Pactual\, 
+ Santander\, UBS Investment Bank\, Bradesco BBI\, and BCP Securities — to a
+ rrange fixed income investor calls ahead of a potential USD-denominated be
+ nchmark-sized Rule 144A/Reg S senior secured 5-year bond offering. The dea
+ l is rated B3/B- (Moody's/Fitch)\, firmly in high-yield territory\, and pr
+ oceeds are intended to fund a tender offer for existing USD 2029 notes and
+  general corporate purposes. No pricing terms have been disclosed at this 
+ mandate stage\, and the offering remains subject to market conditions.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

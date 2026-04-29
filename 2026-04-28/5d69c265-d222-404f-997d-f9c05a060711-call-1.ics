@@ -22,11 +22,44 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:02b452adfa24cbd6-1@daily.newissueiq
-DTSTAMP:20260429T153805Z
-DTSTART;TZID=America/New_York:20260310T100000
-DTEND;TZID=America/New_York:20260310T104500
+DTSTAMP:20260429T155907Z
+DTSTART;TZID=America/New_York:20260310T090000
+DTEND;TZID=America/New_York:20260310T094500
 SUMMARY:TTMTIN — Virtual Investor Call
-DESCRIPTION:Series of virtual investor calls/meetings. Electronic presentation with voiceover will be made available. Standard Chartered Bank coordinating marketing logistics.\nIssuer: JAGUAR LAND ROVER AUTOMOTIVE (TTMTIN)\nRoadshow: https://dealroadshow.com/e/JLR_2026 | Entry Code: JLR_2026 | URL: https://dealroadshow.com\n\nDeal context:\nJaguar Land Rover Automotive plc (TTMTIN)\, rated Ba1 (Negative) / BBB- (Negative) and a wholly-owned subsidiary of Tata Motors Passenger Vehicles Limited\, has mandated Citigroup\, HSBC\, J.P. Morgan\, MUFG\, NatWest\, and Standard Chartered Bank as Joint Active Bookrunners to arrange virtual investor calls on 10 March 2026 ahead of a potential USD dual-tranche benchmark 144A/Reg S senior unsecured transaction across 3-year and 5-year tenors. The deal is guaranteed by Jaguar Land Rover Limited and Jaguar Land Rover Holdings Limited\, with Standard Chartered Bank coordinating marketing logistics. No pricing terms have been disclosed at this mandate stage\, and the transaction remains subject to market conditions.
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nElectr
+ onic presentation with voiceover. Standard Chartered Bank coordinating mar
+ keting logistics.\nIssuer: JAGUAR LAND ROVER AUTOMOTIVE (TTMTIN)\nRoadshow
+ : https://dealroadshow.com/e/JLR_2026 | Entry Code: JLR_2026 | URL: https:
+ //dealroadshow.com\n\nDeal context:\nJaguar Land Rover Automotive plc (TTM
+ TIN)\, rated Ba1 (Negative) / BBB- (Negative) and a wholly-owned subsidiar
+ y of Tata Motors Passenger Vehicles Limited\, has mandated Citigroup\, HSB
+ C\, J.P. Morgan\, MUFG\, NatWest\, and Standard Chartered Bank as Joint Ac
+ tive Bookrunners to arrange virtual investor calls on 10 March 2026 ahead 
+ of a potential USD dual-tranche benchmark 144A/Reg S senior unsecured tran
+ saction across 3-year and 5-year tenors. The deal is guaranteed by Jaguar 
+ Land Rover Limited and Jaguar Land Rover Holdings Limited\, with Standard 
+ Chartered Bank coordinating marketing logistics. No pricing terms have bee
+ n disclosed at this mandate stage\, and the transaction remains subject to
+  market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Electronic presentation with voiceover. Standard Chartered Bank co
+ ordinating marketing logistics.</p><p><strong>Issuer:</strong> JAGUAR LAND
+  ROVER AUTOMOTIVE (TTMTIN)</p><p><strong>Roadshow:</strong> https://dealro
+ adshow.com/e/JLR_2026 | Entry Code: JLR_2026 | URL: https://dealroadshow.c
+ om</p><p><strong>Deal context:</strong><br>Jaguar Land Rover Automotive pl
+ c (TTMTIN)\, rated Ba1 (Negative) / BBB- (Negative) and a wholly-owned sub
+ sidiary of Tata Motors Passenger Vehicles Limited\, has mandated Citigroup
+ \, HSBC\, J.P. Morgan\, MUFG\, NatWest\, and Standard Chartered Bank as Jo
+ int Active Bookrunners to arrange virtual investor calls on 10 March 2026 
+ ahead of a potential USD dual-tranche benchmark 144A/Reg S senior unsecure
+ d transaction across 3-year and 5-year tenors. The deal is guaranteed by J
+ aguar Land Rover Limited and Jaguar Land Rover Holdings Limited\, with Sta
+ ndard Chartered Bank coordinating marketing logistics. No pricing terms ha
+ ve been disclosed at this mandate stage\, and the transaction remains subj
+ ect to market conditions.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

@@ -22,11 +22,43 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2f93a1b451edf7b1-1@daily.newissueiq
-DTSTAMP:20260429T151634Z
+DTSTAMP:20260429T155831Z
 DTSTART;TZID=America/New_York:20260414T100000
 DTEND;TZID=America/New_York:20260414T104500
 SUMMARY:BRAZIL — Deal Roadshow Call - Brazil
-DESCRIPTION:Brazil deal roadshow call featuring Daniel Cardoso Leal (National Treasury Secretary) and Helano Dias (Head of Public Debt Operations Department)\nIssuer: FEDERATIVE REPUBLIC OF BRAZIL (BRAZIL)\nRoadshow: DealRoadshow: https://dealroadshow.com | Entry Code: FROB2026 or https://dealroadshow.com/e/FROB2026\n\nDeal context:\nThe Federative Republic of Brazil (rated Ba1/BB/BB by Moody's/S&P/Fitch) has mandated BBVA\, BNP Paribas\, BofA Securities\, and UBS Investment Bank as Joint Bookrunners to arrange roadshow calls beginning April 14\, 2026\, ahead of a potential EUR-denominated benchmark-sized multi-tranche offering. The proposed transaction consists of three SEC-registered senior unsecured tranches: a 4-year (2030 Bonds)\, 7-year (2033 Bonds)\, and 10-year (2036 Bonds)\, subject to market conditions. BofA Securities is coordinating logistics\, with Brazil represented by National Treasury Secretary Daniel Cardoso Leal and Head of Public Debt Operations Helano Dias.
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nBrazil
+  represented by Daniel Cardoso Leal (National Treasury Secretary) and Hela
+ no Dias (Head of Public Debt Operations Department)\nIssuer: FEDERATIVE RE
+ PUBLIC OF BRAZIL (BRAZIL)\nRoadshow: DealRoadshow: https://dealroadshow.co
+ m | Entry Code: FROB2026 or https://dealroadshow.com/e/FROB2026\n\nDeal co
+ ntext:\nThe Federative Republic of Brazil (rated Ba1/BB/BB by Moody's/S&P/
+ Fitch) has mandated BBVA\, BNP Paribas\, BofA Securities\, and UBS Investm
+ ent Bank as Joint Bookrunners to arrange roadshow calls beginning April 14
+ \, 2026\, ahead of a potential EUR-denominated benchmark-sized multi-tranc
+ he offering. The proposed transaction consists of three SEC-registered sen
+ ior unsecured tranches: a 4-year (2030 Bonds)\, 7-year (2033 Bonds)\, and 
+ 10-year (2036 Bonds)\, subject to market conditions. BofA Securities is co
+ ordinating logistics\, with Brazil represented by National Treasury Secret
+ ary Daniel Cardoso Leal and Head of Public Debt Operations Helano Dias.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Brazil represented by Daniel Cardoso Leal (National Treasury Secre
+ tary) and Helano Dias (Head of Public Debt Operations Department)</p><p><s
+ trong>Issuer:</strong> FEDERATIVE REPUBLIC OF BRAZIL (BRAZIL)</p><p><stron
+ g>Roadshow:</strong> DealRoadshow: https://dealroadshow.com | Entry Code: 
+ FROB2026 or https://dealroadshow.com/e/FROB2026</p><p><strong>Deal context
+ :</strong><br>The Federative Republic of Brazil (rated Ba1/BB/BB by Moody'
+ s/S&amp\;P/Fitch) has mandated BBVA\, BNP Paribas\, BofA Securities\, and 
+ UBS Investment Bank as Joint Bookrunners to arrange roadshow calls beginni
+ ng April 14\, 2026\, ahead of a potential EUR-denominated benchmark-sized 
+ multi-tranche offering. The proposed transaction consists of three SEC-reg
+ istered senior unsecured tranches: a 4-year (2030 Bonds)\, 7-year (2033 Bo
+ nds)\, and 10-year (2036 Bonds)\, subject to market conditions. BofA Secur
+ ities is coordinating logistics\, with Brazil represented by National Trea
+ sury Secretary Daniel Cardoso Leal and Head of Public Debt Operations Hela
+ no Dias.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

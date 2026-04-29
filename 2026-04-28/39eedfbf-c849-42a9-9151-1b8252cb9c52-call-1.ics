@@ -22,11 +22,46 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:df4670ff88f9d57b-1@daily.newissueiq
-DTSTAMP:20260429T153658Z
+DTSTAMP:20260429T155800Z
 DTSTART;TZID=America/New_York:20260422T150000
 DTEND;TZID=America/New_York:20260422T160000
 SUMMARY:SAMMON — Investor Call
-DESCRIPTION:Pre-Registration Link: https://evercall.co/oacc/42121 | Company Representatives: David Attaway\, SVP & Chief Financial Officer\; Sergi Turabelidze\, SVP & Chief Investment Officer | Replay available through Wednesday\, April 29th\, 2026 | Investor Relations Website: https://www.sammonsfinancialgroup.com/about-us/investor-relations\nIssuer: SAMMONS FINL GROUP INC (SAMMON)\nRoadshow: URL: https://dealroadshow.com | Entry Code: SAMMON2026 | Direct Link: https://dealroadshow.com/e/SAMMON2026\n\nDeal context:\nSammons Financial Group\, Inc. (SAMMON) has arranged a semi-annual fixed income investor update call scheduled for Wednesday\, April 22nd\, 2026\, at 3:00PM–4:00PM ET\, coordinated by Wells Fargo Securities. This is not a new bond issuance announcement but rather an investor relations update call where management will review 2025 financial results and discuss 2026 priorities\, with an investor presentation available via Deal Roadshow. As of December 31st\, 2025\, the Company reported $145.2 billion in assets under management and $12.2 billion in adjusted GAAP shareholders' equity.
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nCompan
+ y Representatives: David Attaway\, SVP & Chief Financial Officer\; Sergi T
+ urabelidze\, SVP & Chief Investment Officer. Pre-Registration: https://eve
+ rcall.co/oacc/42121. Replay available through Wednesday\, April 29th\, 202
+ 6. Investor Relations: https://www.sammonsfinancialgroup.com/about-us/inve
+ stor-relations\nIssuer: SAMMONS FINL GROUP INC (SAMMON)\nRoadshow: URL: ht
+ tps://dealroadshow.com | Entry Code: SAMMON2026 | Direct Link: https://dea
+ lroadshow.com/e/SAMMON2026\n\nDeal context:\nSammons Financial Group\, Inc
+ . (SAMMON) has arranged a semi-annual fixed income investor update call sc
+ heduled for Wednesday\, April 22nd\, 2026\, at 3:00PM–4:00PM ET\, coordina
+ ted by Wells Fargo Securities. This is not a new bond issuance announcemen
+ t but rather an investor relations update call where management will revie
+ w 2025 financial results and discuss 2026 priorities\, with an investor pr
+ esentation available via Deal Roadshow. As of December 31st\, 2025\, the C
+ ompany reported $145.2 billion in assets under management and $12.2 billio
+ n in adjusted GAAP shareholders' equity.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Company Representatives: David Attaway\, SVP &amp\; Chief Financia
+ l Officer\; Sergi Turabelidze\, SVP &amp\; Chief Investment Officer. Pre-R
+ egistration: https://evercall.co/oacc/42121. Replay available through Wedn
+ esday\, April 29th\, 2026. Investor Relations: https://www.sammonsfinancia
+ lgroup.com/about-us/investor-relations</p><p><strong>Issuer:</strong> SAMM
+ ONS FINL GROUP INC (SAMMON)</p><p><strong>Roadshow:</strong> URL: https://
+ dealroadshow.com | Entry Code: SAMMON2026 | Direct Link: https://dealroads
+ how.com/e/SAMMON2026</p><p><strong>Deal context:</strong><br>Sammons Finan
+ cial Group\, Inc. (SAMMON) has arranged a semi-annual fixed income investo
+ r update call scheduled for Wednesday\, April 22nd\, 2026\, at 3:00PM–4:00
+ PM ET\, coordinated by Wells Fargo Securities. This is not a new bond issu
+ ance announcement but rather an investor relations update call where manag
+ ement will review 2025 financial results and discuss 2026 priorities\, wit
+ h an investor presentation available via Deal Roadshow. As of December 31s
+ t\, 2025\, the Company reported $145.2 billion in assets under management 
+ and $12.2 billion in adjusted GAAP shareholders' equity.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

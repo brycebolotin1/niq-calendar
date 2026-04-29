@@ -22,11 +22,44 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:1f89ffab6c35b736-1@daily.newissueiq
-DTSTAMP:20260429T153854Z
+DTSTAMP:20260429T155955Z
 DTSTART;TZID=America/New_York:20260203T110000
 DTEND;TZID=America/New_York:20260203T114500
 SUMMARY:MAISTR — Call #1
-DESCRIPTION:Company Representatives: Dwayne Hyzak (CEO)\, Ryan Nelson (CFO & Treasurer)\nIssuer: MAIN STREET CAPITAL CORP (MAISTR)\nRoadshow: Call #1: 11:00AM ET / 10:00AM CT - https://www.netroadshow.com/events/login/LE9zwo49flYDLzGYuQmniTwc9r3y6PQSXAd\; Call #2: 1:00PM ET / 12:00PM CT - https://www.netroadshow.com/events/login/LE9zwo3hUbUvaolPRlAP2cO53c0QGCCAr1s\n\nDeal context:\nMain Street Capital Corporation\, a BBB- rated (S&P and Fitch) principal investment firm\, has mandated RBC Capital Markets\, J.P. Morgan\, SMBC Nikko\, and Truist Securities to arrange fixed income investor calls scheduled for Tuesday\, February 3rd\, 2026\, with a potential capital markets transaction to follow subject to market conditions. The deal is at the mandate stage with two investor call sessions scheduled at 11:00AM ET and 1:00PM ET\, featuring CEO Dwayne Hyzak and CFO Ryan Nelson\, with virtual presentations available through NetRoadshow. No specific deal size\, tenor\, or security type has been disclosed at this stage.
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nCompan
+ y Representatives: Dwayne Hyzak (CEO)\, Ryan Nelson (CFO & Treasurer)\nIss
+ uer: MAIN STREET CAPITAL CORP (MAISTR)\nRoadshow: Call #1: 11:00AM ET / 10
+ :00AM CT - https://www.netroadshow.com/events/login/LE9zwo49flYDLzGYuQmniT
+ wc9r3y6PQSXAd\; Call #2: 1:00PM ET / 12:00PM CT - https://www.netroadshow.
+ com/events/login/LE9zwo3hUbUvaolPRlAP2cO53c0QGCCAr1s\n\nDeal context:\nMai
+ n Street Capital Corporation\, a BBB- rated (S&P and Fitch) principal inve
+ stment firm\, has mandated RBC Capital Markets\, J.P. Morgan\, SMBC Nikko\
+ , and Truist Securities to arrange fixed income investor calls scheduled f
+ or Tuesday\, February 3rd\, 2026\, with a potential capital markets transa
+ ction to follow subject to market conditions. The deal is at the mandate s
+ tage with two investor call sessions scheduled at 11:00AM ET and 1:00PM ET
+ \, featuring CEO Dwayne Hyzak and CFO Ryan Nelson\, with virtual presentat
+ ions available through NetRoadshow. No specific deal size\, tenor\, or sec
+ urity type has been disclosed at this stage.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Company Representatives: Dwayne Hyzak (CEO)\, Ryan Nelson (CFO &am
+ p\; Treasurer)</p><p><strong>Issuer:</strong> MAIN STREET CAPITAL CORP (MA
+ ISTR)</p><p><strong>Roadshow:</strong> Call #1: 11:00AM ET / 10:00AM CT - 
+ https://www.netroadshow.com/events/login/LE9zwo49flYDLzGYuQmniTwc9r3y6PQSX
+ Ad\; Call #2: 1:00PM ET / 12:00PM CT - https://www.netroadshow.com/events/
+ login/LE9zwo3hUbUvaolPRlAP2cO53c0QGCCAr1s</p><p><strong>Deal context:</str
+ ong><br>Main Street Capital Corporation\, a BBB- rated (S&amp\;P and Fitch
+ ) principal investment firm\, has mandated RBC Capital Markets\, J.P. Morg
+ an\, SMBC Nikko\, and Truist Securities to arrange fixed income investor c
+ alls scheduled for Tuesday\, February 3rd\, 2026\, with a potential capita
+ l markets transaction to follow subject to market conditions. The deal is 
+ at the mandate stage with two investor call sessions scheduled at 11:00AM 
+ ET and 1:00PM ET\, featuring CEO Dwayne Hyzak and CFO Ryan Nelson\, with v
+ irtual presentations available through NetRoadshow. No specific deal size\
+ , tenor\, or security type has been disclosed at this stage.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

@@ -22,11 +22,49 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eeea453aea947f2c-2@daily.newissueiq
-DTSTAMP:20260429T153655Z
+DTSTAMP:20260429T155757Z
 DTSTART;TZID=America/New_York:20260428T130000
 DTEND;TZID=America/New_York:20260428T134500
 SUMMARY:AEGON FUNDING CO LLC — Aegon Investor Call #2
-DESCRIPTION:Aegon Ltd investor call. Speakers: Yves Cormier (Global Head of Investor Relations\, Treasury & Ratings)\, Marvin Brizee (Senior Vice President and Head of Group Treasury)\, Lein Pieter Cevaal (Head of Capital Markets Solutions). Registration: https://evercall.co/events/aegon-deal-roadshow-investor-call\nIssuer: AEGON FUNDING CO LLC\nRoadshow: DealRoadshow Details: URL: https://dealroadshow.com | Entry Code: AEGON2026 | Direct Link: https://dealroadshow.com/e/AEGON2026\n\nDeal context:\nAegon Funding Company LLC\, a wholly-owned subsidiary of Aegon Ltd (rated Baa1/BBB+ stable by Moody's/S&P)\, has mandated five joint book-running managers — BofA Securities\, Citigroup\, Deutsche Bank Securities\, Morgan Stanley\, and Wells Fargo Securities — to arrange fixed income investor calls commencing April 28\, 2026\, ahead of a planned benchmark USD-denominated Senior Notes offering due 2036 in SEC registered format. The notes will be guaranteed on a senior unsecured basis by Aegon Ltd and are expected to carry the same Baa1/BBB+ ratings as the parent. No size\, pricing\, or spread guidance has been disclosed at this mandate stage\, with the offering subject to market conditions.
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nRepres
+ ented by Yves Cormier (Global Head of Investor Relations\, Treasury & Rati
+ ngs)\, Marvin Brizee (Senior Vice President and Head of Group Treasury)\, 
+ and Lein Pieter Cevaal (Head of Capital Markets Solutions). Registration: 
+ https://evercall.co/events/aegon-deal-roadshow-investor-call\nIssuer: AEGO
+ N FUNDING CO LLC\nRoadshow: DealRoadshow Details: URL: https://dealroadsho
+ w.com | Entry Code: AEGON2026 | Direct Link: https://dealroadshow.com/e/AE
+ GON2026\n\nDeal context:\nAegon Funding Company LLC\, a wholly-owned subsi
+ diary of Aegon Ltd (rated Baa1/BBB+ stable by Moody's/S&P)\, has mandated 
+ five joint book-running managers — BofA Securities\, Citigroup\, Deutsche 
+ Bank Securities\, Morgan Stanley\, and Wells Fargo Securities — to arrange
+  fixed income investor calls commencing April 28\, 2026\, ahead of a plann
+ ed benchmark USD-denominated Senior Notes offering due 2036 in SEC registe
+ red format. The notes will be guaranteed on a senior unsecured basis by Ae
+ gon Ltd and are expected to carry the same Baa1/BBB+ ratings as the parent
+ . No size\, pricing\, or spread guidance has been disclosed at this mandat
+ e stage\, with the offering subject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Represented by Yves Cormier (Global Head of Investor Relations\, T
+ reasury &amp\; Ratings)\, Marvin Brizee (Senior Vice President and Head of
+  Group Treasury)\, and Lein Pieter Cevaal (Head of Capital Markets Solutio
+ ns). Registration: https://evercall.co/events/aegon-deal-roadshow-investor
+ -call</p><p><strong>Issuer:</strong> AEGON FUNDING CO LLC</p><p><strong>Ro
+ adshow:</strong> DealRoadshow Details: URL: https://dealroadshow.com | Ent
+ ry Code: AEGON2026 | Direct Link: https://dealroadshow.com/e/AEGON2026</p>
+ <p><strong>Deal context:</strong><br>Aegon Funding Company LLC\, a wholly-
+ owned subsidiary of Aegon Ltd (rated Baa1/BBB+ stable by Moody's/S&amp\;P)
+ \, has mandated five joint book-running managers — BofA Securities\, Citig
+ roup\, Deutsche Bank Securities\, Morgan Stanley\, and Wells Fargo Securit
+ ies — to arrange fixed income investor calls commencing April 28\, 2026\, 
+ ahead of a planned benchmark USD-denominated Senior Notes offering due 203
+ 6 in SEC registered format. The notes will be guaranteed on a senior unsec
+ ured basis by Aegon Ltd and are expected to carry the same Baa1/BBB+ ratin
+ gs as the parent. No size\, pricing\, or spread guidance has been disclose
+ d at this mandate stage\, with the offering subject to market conditions.<
+ /p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

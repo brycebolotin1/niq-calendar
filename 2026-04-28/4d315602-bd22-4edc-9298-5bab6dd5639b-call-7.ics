@@ -22,11 +22,40 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c8d1ca34ff33667b-7@daily.newissueiq
-DTSTAMP:20260429T153920Z
+DTSTAMP:20260429T160022Z
 DTSTART;TZID=America/New_York:20260203T130000
 DTEND;TZID=America/New_York:20260203T135000
 SUMMARY:MIDCAP FINL ISSUER TR — Investor Call #7
-DESCRIPTION:Tuesday\, February 3\, 2026. Sign-up: https://markets.jpmorgan.com/event_booking/loadEvent?eventToken=130165_b2497320-ba4d-429d-9281-4a69f8f114ad\nIssuer: MIDCAP FINL ISSUER TR\nRoadshow: www.netroadshow.com | Entry Code: MidCap2026 | Secure Link: www.netroadshow.com/nrs/home/#!/?show=6ffaa456\n\nDeal context:\nMidCap Financial Issuer Trust is arranging fixed income investor calls on February 2-3\, 2026 ahead of a potential offering of senior unsecured notes and/or junior subordinated notes via Rule 144A without registration rights. The issuer carries expected ratings of Baa2 (Stable) from Moody's and A- (Stable) from Kroll\, positioning this as an investment grade deal. J.P. Morgan\, Truist Securities\, and Wells Fargo Securities are coordinating the investor outreach\, with a NetRoadshow presentation available to qualified institutional buyers.
+DESCRIPTION:Reach out to your dealer to confirm availability. It is your re
+ sponsibility to verify the accuracy of time and meeting details.\n\nSign-u
+ p: https://markets.jpmorgan.com/event_booking/loadEvent?eventToken=130165_
+ b2497320-ba4d-429d-9281-4a69f8f114ad\nIssuer: MIDCAP FINL ISSUER TR\nRoads
+ how: www.netroadshow.com | Entry Code: MidCap2026 | Secure Link: www.netro
+ adshow.com/nrs/home/#!/?show=6ffaa456\n\nDeal context:\nMidCap Financial I
+ ssuer Trust is arranging fixed income investor calls on February 2-3\, 202
+ 6 ahead of a potential offering of senior unsecured notes and/or junior su
+ bordinated notes via Rule 144A without registration rights. The issuer car
+ ries expected ratings of Baa2 (Stable) from Moody's and A- (Stable) from K
+ roll\, positioning this as an investment grade deal. J.P. Morgan\, Truist 
+ Securities\, and Wells Fargo Securities are coordinating the investor outr
+ each\, with a NetRoadshow presentation available to qualified institutiona
+ l buyers.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#C00000\;font-weight:700\;marg
+ in:0 0 12px"><em>Reach out to your dealer to confirm availability. It is y
+ our responsibility to verify the accuracy of time and meeting details.</em
+ ></p><p>Sign-up: https://markets.jpmorgan.com/event_booking/loadEvent?even
+ tToken=130165_b2497320-ba4d-429d-9281-4a69f8f114ad</p><p><strong>Issuer:</
+ strong> MIDCAP FINL ISSUER TR</p><p><strong>Roadshow:</strong> www.netroad
+ show.com | Entry Code: MidCap2026 | Secure Link: www.netroadshow.com/nrs/h
+ ome/#!/?show=6ffaa456</p><p><strong>Deal context:</strong><br>MidCap Finan
+ cial Issuer Trust is arranging fixed income investor calls on February 2-3
+ \, 2026 ahead of a potential offering of senior unsecured notes and/or jun
+ ior subordinated notes via Rule 144A without registration rights. The issu
+ er carries expected ratings of Baa2 (Stable) from Moody's and A- (Stable) 
+ from Kroll\, positioning this as an investment grade deal. J.P. Morgan\, T
+ ruist Securities\, and Wells Fargo Securities are coordinating the investo
+ r outreach\, with a NetRoadshow presentation available to qualified instit
+ utional buyers.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
