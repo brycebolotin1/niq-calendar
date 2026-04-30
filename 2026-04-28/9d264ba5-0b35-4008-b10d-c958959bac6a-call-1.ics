@@ -22,32 +22,32 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5b104f97d055de68-1@daily.newissueiq
-DTSTAMP:20260429T210417Z
+DTSTAMP:20260430T004151Z
 DTSTART;TZID=America/New_York:20260429T084500
 DTEND;TZID=America/New_York:20260429T093000
 SUMMARY:FULT — Small Group Call #1
 DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
- Small group call on Wednesday\, April 29th.\nIssuer: FULTON FINL CORP (FUL
- T)\n\nDeal context:\nFulton Financial Corporation is conducting fixed inco
- me investor calls on April 29-30\, organized by Piper Sandler and J.P. Mor
- gan\, ahead of a potential subordinated notes offering. Subject to market 
- conditions\, the holding company plans an SEC-registered offering of subor
- dinated notes with expected ratings of Baa2 (Moody's) and BBB(high) (Morni
- ngstar DBRS)\, placing the deal firmly in Investment Grade territory. No s
- ize\, tenor\, or pricing details have been disclosed at this mandate stage
- \, with Piper Sandler coordinating logistics for the investor calls.
+ Small group investor call\nIssuer: FULTON FINL CORP (FULT)\n\nDeal context
+ :\nFulton Financial Corporation is conducting fixed income investor calls 
+ on April 29-30\, organized by Piper Sandler and J.P. Morgan\, ahead of a p
+ otential subordinated notes offering. Subject to market conditions\, the h
+ olding company plans an SEC-registered offering of subordinated notes with
+  expected ratings of Baa2 (Moody's) and BBB(high) (Morningstar DBRS)\, pla
+ cing the deal firmly in Investment Grade territory. No size\, tenor\, or p
+ ricing details have been disclosed at this mandate stage\, with Piper Sand
+ ler coordinating logistics for the investor calls.
 X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
  h out to your dealer to confirm timing and availability</p><p>Small group 
- call on Wednesday\, April 29th.</p><p><strong>Issuer:</strong> FULTON FINL
-  CORP (FULT)</p><p><strong>Deal context:</strong><br>Fulton Financial Corp
- oration is conducting fixed income investor calls on April 29-30\, organiz
- ed by Piper Sandler and J.P. Morgan\, ahead of a potential subordinated no
- tes offering. Subject to market conditions\, the holding company plans an 
- SEC-registered offering of subordinated notes with expected ratings of Baa
- 2 (Moody's) and BBB(high) (Morningstar DBRS)\, placing the deal firmly in 
- Investment Grade territory. No size\, tenor\, or pricing details have been
-  disclosed at this mandate stage\, with Piper Sandler coordinating logisti
- cs for the investor calls.</p>
+ investor call</p><p><strong>Issuer:</strong> FULTON FINL CORP (FULT)</p><p
+ ><strong>Deal context:</strong><br>Fulton Financial Corporation is conduct
+ ing fixed income investor calls on April 29-30\, organized by Piper Sandle
+ r and J.P. Morgan\, ahead of a potential subordinated notes offering. Subj
+ ect to market conditions\, the holding company plans an SEC-registered off
+ ering of subordinated notes with expected ratings of Baa2 (Moody's) and BB
+ B(high) (Morningstar DBRS)\, placing the deal firmly in Investment Grade t
+ erritory. No size\, tenor\, or pricing details have been disclosed at this
+  mandate stage\, with Piper Sandler coordinating logistics for the investo
+ r calls.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
