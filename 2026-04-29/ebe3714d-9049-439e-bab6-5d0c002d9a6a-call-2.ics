@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:20844198bd39dc53-2@daily.newissueiq
+DTSTAMP:20260430T121857Z
+DTSTART;TZID=America/New_York:20260413T160000
+DTEND;TZID=America/New_York:20260413T164500
+SUMMARY:GENTING BERHAD — Virtual Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Virtual Only\nIssuer: GENTING BERHAD\nRoadshow: https://www.covacap.com/s/
+ ddfcf3da5e820f754f274be945aaa214\n\nDeal context:\nGenting Berhad\, a Mala
+ ysian conglomerate\, is conducting a Non-Deal Roadshow with fixed income i
+ nvestor meetings organized by Deutsche Bank\, J.P. Morgan\, Barclays\, and
+  Citi across virtual and Singapore-based sessions on April 13-15\, 2026. S
+ enior management including CEO Dato' Sri Tan Kong Han and CFO Wong Yee Fun
+  will participate. No specific bond terms have been announced — this is a 
+ pre-deal investor engagement at the Mandate stage.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>Virtual Only
+ </p><p><strong>Issuer:</strong> GENTING BERHAD</p><p><strong>Roadshow:</st
+ rong> https://www.covacap.com/s/ddfcf3da5e820f754f274be945aaa214</p><p><st
+ rong>Deal context:</strong><br>Genting Berhad\, a Malaysian conglomerate\,
+  is conducting a Non-Deal Roadshow with fixed income investor meetings org
+ anized by Deutsche Bank\, J.P. Morgan\, Barclays\, and Citi across virtual
+  and Singapore-based sessions on April 13-15\, 2026. Senior management inc
+ luding CEO Dato' Sri Tan Kong Han and CFO Wong Yee Fun will participate. N
+ o specific bond terms have been announced — this is a pre-deal investor en
+ gagement at the Mandate stage.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

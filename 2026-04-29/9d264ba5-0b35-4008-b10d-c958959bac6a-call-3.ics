@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c710331b99b4bb8c-3@daily.newissueiq
+DTSTAMP:20260430T121822Z
+DTSTART;TZID=America/New_York:20260429T160000
+DTEND;TZID=America/New_York:20260429T164500
+SUMMARY:FULT — National Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ National investor call on Wednesday\, April 29th. Replay available by 6:00
+ pm ET.\nIssuer: FULTON FINL CORP (FULT)\n\nDeal context:\nFulton Financial
+  Corporation is conducting fixed income investor calls on April 29-30\, or
+ ganized by Piper Sandler and J.P. Morgan\, ahead of a potential subordinat
+ ed notes offering. Subject to market conditions\, the holding company plan
+ s an SEC-registered offering of subordinated notes with expected ratings o
+ f Baa2 (Moody's) and BBB(high) (Morningstar DBRS)\, placing the deal firml
+ y in Investment Grade territory. No size\, tenor\, or pricing details have
+  been disclosed at this mandate stage\, with Piper Sandler coordinating lo
+ gistics for the investor calls.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>National inv
+ estor call on Wednesday\, April 29th. Replay available by 6:00pm ET.</p><p
+ ><strong>Issuer:</strong> FULTON FINL CORP (FULT)</p><p><strong>Deal conte
+ xt:</strong><br>Fulton Financial Corporation is conducting fixed income in
+ vestor calls on April 29-30\, organized by Piper Sandler and J.P. Morgan\,
+  ahead of a potential subordinated notes offering. Subject to market condi
+ tions\, the holding company plans an SEC-registered offering of subordinat
+ ed notes with expected ratings of Baa2 (Moody's) and BBB(high) (Morningsta
+ r DBRS)\, placing the deal firmly in Investment Grade territory. No size\,
+  tenor\, or pricing details have been disclosed at this mandate stage\, wi
+ th Piper Sandler coordinating logistics for the investor calls.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
