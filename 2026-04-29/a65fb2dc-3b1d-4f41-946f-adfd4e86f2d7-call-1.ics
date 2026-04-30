@@ -22,42 +22,42 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:85a9f9f77f19f5ec-1@daily.newissueiq
-DTSTAMP:20260430T121818Z
-DTSTART;TZID=America/New_York:20260428T000000
-DTEND;TZID=America/New_York:20260428T004500
+DTSTAMP:20260430T143253Z
+DTSTART;TZID=America/New_York:20260428T140000
+DTEND;TZID=America/New_York:20260428T144500
 SUMMARY:COX ASSET MEXICO SA DE C V — Virtual Fixed Income Investor Call
 DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
- Series of virtual fixed income investor calls. Deutsche Bank Securities co
- ordinating logistics.\nIssuer: COX ASSET MEXICO SA DE C V\nRoadshow: URL: 
- https://dealroadshow.com | Entry Code: COX2026 | Direct Link: https://deal
- roadshow.com/e/COX2026\n\nDeal context:\nCox Asset Mexico\, SA de CV — a s
- pecial purpose vehicle created by Cox ABG Group\, SA to acquire Iberdrola 
- México\, SA de CV — has mandated Barclays\, Citigroup\, Deutsche Bank Secu
- rities\, and Goldman Sachs as Global Coordinators and Joint Bookrunners\, 
- alongside BBVA\, Santander\, and Scotiabank as Joint Bookrunners\, for a d
- ual-tranche USD-denominated 144A/Reg S Senior Secured Notes offering. The 
- deal is expected to consist of a long 5-year and a 10-year benchmark-sized
-  tranche with expected ratings of BBB- (Fitch) and Ba1 (Moody's)\, with in
- vestor calls commencing Tuesday\, April 28\, 2026\, subject to market cond
- itions. This is an acquisition financing SPV deal with a split rating stra
- ddling the IG/HY boundary.
+ Virtual fixed income investor call coordinated by Deutsche Bank Securities
+ . Specific time not provided\; using placeholder 2:00 PM ET.\nIssuer: COX 
+ ASSET MEXICO SA DE C V\nRoadshow: URL: https://dealroadshow.com | Entry Co
+ de: COX2026 | Direct Link: https://dealroadshow.com/e/COX2026\n\nDeal cont
+ ext:\nCox Asset Mexico\, SA de CV — a special purpose vehicle created by C
+ ox ABG Group\, SA to acquire Iberdrola México\, SA de CV — has mandated Ba
+ rclays\, Citigroup\, Deutsche Bank Securities\, and Goldman Sachs as Globa
+ l Coordinators and Joint Bookrunners\, alongside BBVA\, Santander\, and Sc
+ otiabank as Joint Bookrunners\, for a dual-tranche USD-denominated 144A/Re
+ g S Senior Secured Notes offering. The deal is expected to consist of a lo
+ ng 5-year and a 10-year benchmark-sized tranche with expected ratings of B
+ BB- (Fitch) and Ba1 (Moody's)\, with investor calls commencing Tuesday\, A
+ pril 28\, 2026\, subject to market conditions. This is an acquisition fina
+ ncing SPV deal with a split rating straddling the IG/HY boundary.
 X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
- h out to your dealer to confirm timing and availability</p><p>Series of vi
- rtual fixed income investor calls. Deutsche Bank Securities coordinating l
- ogistics.</p><p><strong>Issuer:</strong> COX ASSET MEXICO SA DE C V</p><p>
- <strong>Roadshow:</strong> URL: https://dealroadshow.com | Entry Code: COX
- 2026 | Direct Link: https://dealroadshow.com/e/COX2026</p><p><strong>Deal 
- context:</strong><br>Cox Asset Mexico\, SA de CV — a special purpose vehic
- le created by Cox ABG Group\, SA to acquire Iberdrola México\, SA de CV — 
- has mandated Barclays\, Citigroup\, Deutsche Bank Securities\, and Goldman
-  Sachs as Global Coordinators and Joint Bookrunners\, alongside BBVA\, San
- tander\, and Scotiabank as Joint Bookrunners\, for a dual-tranche USD-deno
- minated 144A/Reg S Senior Secured Notes offering. The deal is expected to 
- consist of a long 5-year and a 10-year benchmark-sized tranche with expect
- ed ratings of BBB- (Fitch) and Ba1 (Moody's)\, with investor calls commenc
- ing Tuesday\, April 28\, 2026\, subject to market conditions. This is an a
- cquisition financing SPV deal with a split rating straddling the IG/HY bou
- ndary.</p>
+ h out to your dealer to confirm timing and availability</p><p>Virtual fixe
+ d income investor call coordinated by Deutsche Bank Securities. Specific t
+ ime not provided\; using placeholder 2:00 PM ET.</p><p><strong>Issuer:</st
+ rong> COX ASSET MEXICO SA DE C V</p><p><strong>Roadshow:</strong> URL: htt
+ ps://dealroadshow.com | Entry Code: COX2026 | Direct Link: https://dealroa
+ dshow.com/e/COX2026</p><p><strong>Deal context:</strong><br>Cox Asset Mexi
+ co\, SA de CV — a special purpose vehicle created by Cox ABG Group\, SA to
+  acquire Iberdrola México\, SA de CV — has mandated Barclays\, Citigroup\,
+  Deutsche Bank Securities\, and Goldman Sachs as Global Coordinators and J
+ oint Bookrunners\, alongside BBVA\, Santander\, and Scotiabank as Joint Bo
+ okrunners\, for a dual-tranche USD-denominated 144A/Reg S Senior Secured N
+ otes offering. The deal is expected to consist of a long 5-year and a 10-y
+ ear benchmark-sized tranche with expected ratings of BBB- (Fitch) and Ba1 
+ (Moody's)\, with investor calls commencing Tuesday\, April 28\, 2026\, sub
+ ject to market conditions. This is an acquisition financing SPV deal with 
+ a split rating straddling the IG/HY boundary.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR

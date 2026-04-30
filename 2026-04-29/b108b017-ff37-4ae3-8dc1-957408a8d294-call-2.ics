@@ -22,40 +22,40 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:273da42462096b0f-2@daily.newissueiq
-DTSTAMP:20260430T121827Z
+DTSTAMP:20260430T143301Z
 DTSTART;TZID=America/New_York:20260420T130000
 DTEND;TZID=America/New_York:20260420T135000
-SUMMARY:AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC — Call #2
+SUMMARY:AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC — Investor Call
+  #2
 DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
- Investor call. Registration: https://www.netroadshow.com/events/login/LE9z
- wo3hUk3tgjuUdSYK3FtfSqCVmm9oCts\nIssuer: AMERICAN CAMPUS COMMUNITIES ON CA
- MPUS FINANCING LLC\nRoadshow: www.netroadshow.com/nrs/home/#!/?show=15e18f
- fc OR www.netroadshow.com\; Entry Code: ACC2026\n\nDeal context:\nAmerican
-  Campus Communities On Campus Financing LLC and its co-issuers (Abacus PF 
- Borrower A LLC\, Abacus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)
- \, indirect subsidiaries of American Campus Communities LLC or Abacus AIV 
- LLC (collectively 'ACC')\, have mandated SMBC Nikko\, Credit Agricole CIB\
- , and MUFG to arrange fixed income investor update calls on April 20-21\, 
- 2026\, with expected ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg
-  S offering may follow subject to market conditions\, with SMBC Nikko coor
- dinating logistics. No deal size\, tenor\, or pricing terms have been disc
- losed at this mandate stage.
+ Registration: https://www.netroadshow.com/events/login/LE9zwo3hUk3tgjuUdSY
+ K3FtfSqCVmm9oCts\nIssuer: AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING 
+ LLC\nRoadshow: www.netroadshow.com/nrs/home/#!/?show=15e18ffc OR www.netro
+ adshow.com\; Entry Code: ACC2026\n\nDeal context:\nAmerican Campus Communi
+ ties On Campus Financing LLC and its co-issuers (Abacus PF Borrower A LLC\
+ , Abacus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)\, indirect sub
+ sidiaries of American Campus Communities LLC or Abacus AIV LLC (collective
+ ly 'ACC')\, have mandated SMBC Nikko\, Credit Agricole CIB\, and MUFG to a
+ rrange fixed income investor update calls on April 20-21\, 2026\, with exp
+ ected ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may
+  follow subject to market conditions\, with SMBC Nikko coordinating logist
+ ics. No deal size\, tenor\, or pricing terms have been disclosed at this m
+ andate stage.
 X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
- h out to your dealer to confirm timing and availability</p><p>Investor cal
- l. Registration: https://www.netroadshow.com/events/login/LE9zwo3hUk3tgjuU
- dSYK3FtfSqCVmm9oCts</p><p><strong>Issuer:</strong> AMERICAN CAMPUS COMMUNI
- TIES ON CAMPUS FINANCING LLC</p><p><strong>Roadshow:</strong> www.netroads
- how.com/nrs/home/#!/?show=15e18ffc OR www.netroadshow.com\; Entry Code: AC
- C2026</p><p><strong>Deal context:</strong><br>American Campus Communities 
- On Campus Financing LLC and its co-issuers (Abacus PF Borrower A LLC\, Aba
- cus PF Borrower B LLC\, and Abacus PF Borrower JV LLC)\, indirect subsidia
- ries of American Campus Communities LLC or Abacus AIV LLC (collectively 'A
- CC')\, have mandated SMBC Nikko\, Credit Agricole CIB\, and MUFG to arrang
- e fixed income investor update calls on April 20-21\, 2026\, with expected
-  ratings of Baa3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may foll
- ow subject to market conditions\, with SMBC Nikko coordinating logistics. 
- No deal size\, tenor\, or pricing terms have been disclosed at this mandat
- e stage.</p>
+ h out to your dealer to confirm timing and availability</p><p>Registration
+ : https://www.netroadshow.com/events/login/LE9zwo3hUk3tgjuUdSYK3FtfSqCVmm9
+ oCts</p><p><strong>Issuer:</strong> AMERICAN CAMPUS COMMUNITIES ON CAMPUS 
+ FINANCING LLC</p><p><strong>Roadshow:</strong> www.netroadshow.com/nrs/hom
+ e/#!/?show=15e18ffc OR www.netroadshow.com\; Entry Code: ACC2026</p><p><st
+ rong>Deal context:</strong><br>American Campus Communities On Campus Finan
+ cing LLC and its co-issuers (Abacus PF Borrower A LLC\, Abacus PF Borrower
+  B LLC\, and Abacus PF Borrower JV LLC)\, indirect subsidiaries of America
+ n Campus Communities LLC or Abacus AIV LLC (collectively 'ACC')\, have man
+ dated SMBC Nikko\, Credit Agricole CIB\, and MUFG to arrange fixed income 
+ investor update calls on April 20-21\, 2026\, with expected ratings of Baa
+ 3/BBB- (Moody's/Fitch). A Rule 144A/Reg S offering may follow subject to m
+ arket conditions\, with SMBC Nikko coordinating logistics. No deal size\, 
+ tenor\, or pricing terms have been disclosed at this mandate stage.</p>
 LOCATION:Conference Call
 END:VEVENT
 END:VCALENDAR
