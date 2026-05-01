@@ -1,0 +1,22 @@
+[
+  {
+    "id": "de587226-2edd-4cee-85f8-c136bfc74ecf",
+    "issuerName": "ESENTIA ENERGY DEVELOPMENT SAB DE CV",
+    "alertedAt": "2026-05-01T14:48:48.376Z"
+  },
+  {
+    "id": "ee0b7767-eeda-4b27-aeb7-2734950d9cfe",
+    "issuerName": "TRANS-OIL GROUP",
+    "alertedAt": "2026-05-01T14:48:48.376Z"
+  },
+  {
+    "id": "271b3940-9994-4b1f-af58-425cf1e1ec55",
+    "issuerName": "BROADRIDGE FINL SOLUTIONS INC",
+    "alertedAt": "2026-05-01T14:48:48.376Z"
+  },
+  {
+    "id": "a076c5f4-a3c0-48a5-9384-ce0872d44532",
+    "issuerName": "PAREX RESOURCES INC",
+    "alertedAt": "2026-05-01T14:48:48.376Z"
+  }
+]
