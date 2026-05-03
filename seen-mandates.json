@@ -13,5 +13,10 @@
     "id": "a076c5f4-a3c0-48a5-9384-ce0872d44532",
     "issuerName": "PAREX RESOURCES INC",
     "alertedAt": "2026-05-01T14:48:48.376Z"
+  },
+  {
+    "id": "271b3940-9994-4b1f-af58-425cf1e1ec55",
+    "issuerName": "BROADRIDGE FINL SOLUTIONS INC",
+    "alertedAt": "2026-05-03T14:56:55.373Z"
   }
 ]
