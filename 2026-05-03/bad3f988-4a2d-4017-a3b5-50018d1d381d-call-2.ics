@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4477a336df7b26b4-2@daily.newissueiq
+DTSTAMP:20260504T132932Z
+DTSTART;TZID=America/New_York:20260504T121500
+DTEND;TZID=America/New_York:20260504T130000
+SUMMARY:HUM — Marketing Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Registration: https://www.netroadshow.com/events/login/1PeTHmohVm3dhNLKFgQ
+ fkDXD1UwEtW4RQYMi4\nIssuer: HUMANA INC (HUM)\nRoadshow: www.netroadshow.co
+ m | Entry Code: HUMANA26 | Direct Link: www.netroadshow.com/nrs/home/#!/?s
+ how=07d48700\n\nDeal context:\nHumana Inc. (NYSE: HUM) is launching a nove
+ l structured financing through two newly formed trusts — Horseshoe Funding
+  Trust I and Horseshoe Funding Trust II — issuing Pre-Capitalized Trust Se
+ curities (P-CAPs) in 10-year and 30-year fixed-rate tranches denominated i
+ n U.S. dollars under Rule 144A / Section 3(c)(7). The deal is at the Manda
+ te stage\, with investor calls scheduled for Monday\, May 4th\, 2026\, and
+  no size or pricing terms disclosed yet\; the P-CAPs are expected to be ra
+ ted Baa2 (Negative) / BBB (Negative) / BBB- (Stable) by Moody's\, S&P\, an
+ d Fitch\, in line with Humana's existing senior unsecured notes. Goldman S
+ achs & Co. LLC serves as Sole Structuring Advisor\, with BofA Securities\,
+  Citigroup\, Goldman Sachs\, Morgan Stanley\, and Wells Fargo Securities a
+ s joint bookrunners/hosts.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>Registration
+ : https://www.netroadshow.com/events/login/1PeTHmohVm3dhNLKFgQfkDXD1UwEtW4
+ RQYMi4</p><p><strong>Issuer:</strong> HUMANA INC (HUM)</p><p><strong>Roads
+ how:</strong> www.netroadshow.com | Entry Code: HUMANA26 | Direct Link: ww
+ w.netroadshow.com/nrs/home/#!/?show=07d48700</p><p><strong>Deal context:</
+ strong><br>Humana Inc. (NYSE: HUM) is launching a novel structured financi
+ ng through two newly formed trusts — Horseshoe Funding Trust I and Horsesh
+ oe Funding Trust II — issuing Pre-Capitalized Trust Securities (P-CAPs) in
+  10-year and 30-year fixed-rate tranches denominated in U.S. dollars under
+  Rule 144A / Section 3(c)(7). The deal is at the Mandate stage\, with inve
+ stor calls scheduled for Monday\, May 4th\, 2026\, and no size or pricing 
+ terms disclosed yet\; the P-CAPs are expected to be rated Baa2 (Negative) 
+ / BBB (Negative) / BBB- (Stable) by Moody's\, S&amp\;P\, and Fitch\, in li
+ ne with Humana's existing senior unsecured notes. Goldman Sachs &amp\; Co.
+  LLC serves as Sole Structuring Advisor\, with BofA Securities\, Citigroup
+ \, Goldman Sachs\, Morgan Stanley\, and Wells Fargo Securities as joint bo
+ okrunners/hosts.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

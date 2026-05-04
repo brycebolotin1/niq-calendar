@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:13c805ed8bb4d6e8-1@daily.newissueiq
+DTSTAMP:20260504T132936Z
+DTSTART;TZID=America/New_York:20260504T100000
+DTEND;TZID=America/New_York:20260504T104500
+SUMMARY:ESENTIAI MM — Virtual Fixed Income Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Virtual fixed income investor call coordinated by Citigroup. Specific time
+  not provided\; assumed 10:00 AM ET start with 45-minute duration.\nIssuer
+ : ESENTIA ENERGY DEVELOPMENT SAB DE CV (ESENTIAI MM)\n\nDeal context:\nEse
+ ntia Energy Development SAB DE CV\, a Mexican energy company rated Baa3/BB
+ B-/BBB- (investment grade) by Moody's\, S&P\, and Fitch respectively\, has
+  mandated Bank of America\, Citigroup\, and ING as global coordinators and
+  active joint bookrunners\, alongside Scotiabank and SMBC as active joint 
+ bookrunners\, to arrange virtual fixed income investor calls beginning Mon
+ day\, May 4\, 2026. The company is considering a dual-tranche USD-denomina
+ ted benchmark-sized 144A/Reg S senior unsecured notes offering in 7-year a
+ nd 12-year tenors\, subject to market conditions. No pricing guidance or d
+ eal size has been specified at this mandate stage\, with Citigroup coordin
+ ating logistics for the investor call process.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>Virtual fixe
+ d income investor call coordinated by Citigroup. Specific time not provide
+ d\; assumed 10:00 AM ET start with 45-minute duration.</p><p><strong>Issue
+ r:</strong> ESENTIA ENERGY DEVELOPMENT SAB DE CV (ESENTIAI MM)</p><p><stro
+ ng>Deal context:</strong><br>Esentia Energy Development SAB DE CV\, a Mexi
+ can energy company rated Baa3/BBB-/BBB- (investment grade) by Moody's\, S&
+ amp\;P\, and Fitch respectively\, has mandated Bank of America\, Citigroup
+ \, and ING as global coordinators and active joint bookrunners\, alongside
+  Scotiabank and SMBC as active joint bookrunners\, to arrange virtual fixe
+ d income investor calls beginning Monday\, May 4\, 2026. The company is co
+ nsidering a dual-tranche USD-denominated benchmark-sized 144A/Reg S senior
+  unsecured notes offering in 7-year and 12-year tenors\, subject to market
+  conditions. No pricing guidance or deal size has been specified at this m
+ andate stage\, with Citigroup coordinating logistics for the investor call
+  process.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

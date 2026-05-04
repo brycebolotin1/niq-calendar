@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:54fa9fd2aa9a884e-2@daily.newissueiq
+DTSTAMP:20260504T132935Z
+DTSTART;TZID=America/New_York:20260503T140000
+DTEND;TZID=America/New_York:20260503T144500
+SUMMARY:BREAFIN — Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ https://evercall.co/oacc/70465\nIssuer: BREAD FINL HOLDINGS INC (BREAFIN)\
+ nRoadshow: Direct Link (Recommended): https://dealroadshow.com/e/BFH_2026 
+ | Link: https://dealroadshow.com | Password: BFH_2026\n\nDeal context:\nBr
+ ead Financial Holdings\, Inc. (BFH) is conducting investor marketing calls
+  on May 4th\, 2026\, ahead of a potential SEC-registered $25 par fixed-res
+ et preferred stock offering\, subject to market conditions. The deal is at
+  the Mandate stage\, with Morgan Stanley\, RBC Capital Markets\, UBS Inves
+ tment Bank\, Wells Fargo Securities\, and Keefe\, Bruyette & Woods (A Stif
+ el Company) arranging the investor calls. No pricing terms\, size\, or rat
+ ings have been disclosed at this stage\; the offering remains contingent o
+ n market conditions following the investor engagement.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>https://ever
+ call.co/oacc/70465</p><p><strong>Issuer:</strong> BREAD FINL HOLDINGS INC 
+ (BREAFIN)</p><p><strong>Roadshow:</strong> Direct Link (Recommended): http
+ s://dealroadshow.com/e/BFH_2026 | Link: https://dealroadshow.com | Passwor
+ d: BFH_2026</p><p><strong>Deal context:</strong><br>Bread Financial Holdin
+ gs\, Inc. (BFH) is conducting investor marketing calls on May 4th\, 2026\,
+  ahead of a potential SEC-registered $25 par fixed-reset preferred stock o
+ ffering\, subject to market conditions. The deal is at the Mandate stage\,
+  with Morgan Stanley\, RBC Capital Markets\, UBS Investment Bank\, Wells F
+ argo Securities\, and Keefe\, Bruyette &amp\; Woods (A Stifel Company) arr
+ anging the investor calls. No pricing terms\, size\, or ratings have been 
+ disclosed at this stage\; the offering remains contingent on market condit
+ ions following the investor engagement.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

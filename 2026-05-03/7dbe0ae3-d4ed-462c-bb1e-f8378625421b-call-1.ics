@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:41a2723d266d9949-1@daily.newissueiq
+DTSTAMP:20260504T132931Z
+DTSTART;TZID=America/New_York:20260504T130000
+DTEND;TZID=America/New_York:20260504T134500
+SUMMARY:PTEN — Investor Call #1
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Pre-Registration Link: https://www.netroadshow.com/events/login/1PeTHmohRK
+ plk9ENkbbx6bieT1GapgXCsVRuF\nIssuer: PATTERSON-UTI ENERGY (PTEN)\nRoadshow
+ : www.netroadshow.com/nrs/home/#!/?show=ada5574b | Pre-Registration Links:
+  https://www.netroadshow.com/events/login/1PeTHmohRKplk9ENkbbx6bieT1GapgXC
+ sVRuF | https://www.netroadshow.com/events/login/1PeTHmohCHbzWEPYn0InyDpdi
+ O3tcct6aElF6 | https://www.netroadshow.com/events/login/1PeTHmohLxx62YReGg
+ OByc0hE1LBnKBKS4jZd\n\nDeal context:\nPatterson-UTI Energy\, Inc. (PTEN)\,
+  a Baa3/BBB-/BBB- rated (all stable) US-based oilfield services company\, 
+ has mandated Goldman Sachs\, Wells Fargo Securities\, and Scotia Capital t
+ o arrange three fixed income investor calls on Monday\, May 4th\, 2026\, s
+ ignaling a potential upcoming bond offering. The investor calls are schedu
+ led across three time slots (1:00–1:45pm\, 2:00–2:45pm\, and 3:00–3:45pm E
+ T)\, with an electronic investor presentation available via NetRoadShow. N
+ o specific deal terms (size\, tenor\, coupon\, or format) have been disclo
+ sed at this mandate stage\, with the company represented by its CEO\, CFO\
+ , and VP of Finance/IR.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p>Pre-Registra
+ tion Link: https://www.netroadshow.com/events/login/1PeTHmohRKplk9ENkbbx6b
+ ieT1GapgXCsVRuF</p><p><strong>Issuer:</strong> PATTERSON-UTI ENERGY (PTEN)
+ </p><p><strong>Roadshow:</strong> www.netroadshow.com/nrs/home/#!/?show=ad
+ a5574b | Pre-Registration Links: https://www.netroadshow.com/events/login/
+ 1PeTHmohRKplk9ENkbbx6bieT1GapgXCsVRuF | https://www.netroadshow.com/events
+ /login/1PeTHmohCHbzWEPYn0InyDpdiO3tcct6aElF6 | https://www.netroadshow.com
+ /events/login/1PeTHmohLxx62YReGgOByc0hE1LBnKBKS4jZd</p><p><strong>Deal con
+ text:</strong><br>Patterson-UTI Energy\, Inc. (PTEN)\, a Baa3/BBB-/BBB- ra
+ ted (all stable) US-based oilfield services company\, has mandated Goldman
+  Sachs\, Wells Fargo Securities\, and Scotia Capital to arrange three fixe
+ d income investor calls on Monday\, May 4th\, 2026\, signaling a potential
+  upcoming bond offering. The investor calls are scheduled across three tim
+ e slots (1:00–1:45pm\, 2:00–2:45pm\, and 3:00–3:45pm ET)\, with an electro
+ nic investor presentation available via NetRoadShow. No specific deal term
+ s (size\, tenor\, coupon\, or format) have been disclosed at this mandate 
+ stage\, with the company represented by its CEO\, CFO\, and VP of Finance/
+ IR.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
