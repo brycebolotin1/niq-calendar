@@ -18,5 +18,30 @@
     "id": "271b3940-9994-4b1f-af58-425cf1e1ec55",
     "issuerName": "BROADRIDGE FINL SOLUTIONS INC",
     "alertedAt": "2026-05-03T14:56:55.373Z"
+  },
+  {
+    "id": "3515236c-f4f4-4dd6-9ec3-fdfb1b3e4912",
+    "issuerName": "BREAD FINL HOLDINGS INC",
+    "alertedAt": "2026-05-04T15:31:56.486Z"
+  },
+  {
+    "id": "08251feb-31d3-485e-a980-43cca6a9c64a",
+    "issuerName": "ESTADO PLURINACIONAL DE BOLIVIA",
+    "alertedAt": "2026-05-04T15:31:59.632Z"
+  },
+  {
+    "id": "17d4dad6-c9d3-45c6-92c9-fcda29806057",
+    "issuerName": "BANCA MIFEL SA",
+    "alertedAt": "2026-05-04T15:32:02.853Z"
+  },
+  {
+    "id": "bad3f988-4a2d-4017-a3b5-50018d1d381d",
+    "issuerName": "HUMANA INC",
+    "alertedAt": "2026-05-04T15:32:06.079Z"
+  },
+  {
+    "id": "7dbe0ae3-d4ed-462c-bb1e-f8378625421b",
+    "issuerName": "PATTERSON-UTI ENERGY",
+    "alertedAt": "2026-05-04T15:32:09.356Z"
   }
 ]
