@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:527dce254727fd30-1@daily.newissueiq
+DTSTAMP:20260504T222315Z
+DTSTART;TZID=America/New_York:20260504T110000
+DTEND;TZID=America/New_York:20260504T114500
+SUMMARY:BREAFIN — Call #1
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: BREAD FINL HOLDINGS INC (BREAFIN)\nRoadshow: Direct Link (Recommen
+ ded): https://dealroadshow.com/e/BFH_2026 | Link: https://dealroadshow.com
+  | Password: BFH_2026\n\nDeal context:\nBread Financial Holdings\, Inc. (B
+ FH) is conducting investor marketing calls on May 4th\, 2026\, ahead of a 
+ potential SEC-registered $25 par fixed-reset preferred stock offering\, su
+ bject to market conditions. The deal is at the Mandate stage\, with Morgan
+  Stanley\, RBC Capital Markets\, UBS Investment Bank\, Wells Fargo Securit
+ ies\, and Keefe\, Bruyette & Woods (A Stifel Company) arranging the invest
+ or calls. No pricing terms\, size\, or ratings have been disclosed at this
+  stage\; the offering remains contingent on market conditions following th
+ e investor engagement.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> BREAD FINL HOLDINGS INC (BREAFIN)</p><p><strong>Roadshow:</st
+ rong> Direct Link (Recommended): https://dealroadshow.com/e/BFH_2026 | Lin
+ k: https://dealroadshow.com | Password: BFH_2026</p><p><strong>Deal contex
+ t:</strong><br>Bread Financial Holdings\, Inc. (BFH) is conducting investo
+ r marketing calls on May 4th\, 2026\, ahead of a potential SEC-registered 
+ $25 par fixed-reset preferred stock offering\, subject to market condition
+ s. The deal is at the Mandate stage\, with Morgan Stanley\, RBC Capital Ma
+ rkets\, UBS Investment Bank\, Wells Fargo Securities\, and Keefe\, Bruyett
+ e &amp\; Woods (A Stifel Company) arranging the investor calls. No pricing
+  terms\, size\, or ratings have been disclosed at this stage\; the offerin
+ g remains contingent on market conditions following the investor engagemen
+ t.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

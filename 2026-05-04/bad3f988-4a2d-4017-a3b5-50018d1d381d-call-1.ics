@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7c75fcfd4c691e96-1@daily.newissueiq
+DTSTAMP:20260504T222315Z
+DTSTART;TZID=America/New_York:20260504T104500
+DTEND;TZID=America/New_York:20260504T113000
+SUMMARY:HUM — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: HUMANA INC (HUM)\nRoadshow: www.netroadshow.com | Entry Code: HUMA
+ NA26 | Direct Link: www.netroadshow.com/nrs/home/#!/?show=07d48700\n\nDeal
+  context:\nHumana Inc. has mandated BofA Securities\, Citigroup\, Goldman 
+ Sachs\, Morgan Stanley\, and Wells Fargo Securities to host global fixed i
+ ncome investor calls on Monday\, May 4th\, ahead of a potential issuance o
+ f 10-year and 30-year fixed-rate Pre-Capitalized Trust Securities (P-CAPs)
+  denominated in U.S. dollars via newly formed trusts ('Horseshoe Funding T
+ rust I' and 'Horseshoe Funding Trust II'). The P-CAPs are expected to be o
+ ffered under Rule 144A / Section 3(c)(7) and are anticipated to carry rati
+ ngs of Baa2 (Negative) / BBB (Negative) / BBB- (Stable) from Moody's\, S&P
+ \, and Fitch\, respectively\, in line with Humana's existing senior unsecu
+ red notes. Goldman Sachs & Co. LLC is acting as Sole Structuring Advisor\,
+  with Wells Fargo Securities coordinating marketing logistics\; the deal r
+ emains subject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> HUMANA INC (HUM)</p><p><strong>Roadshow:</strong> www.netroad
+ show.com | Entry Code: HUMANA26 | Direct Link: www.netroadshow.com/nrs/hom
+ e/#!/?show=07d48700</p><p><strong>Deal context:</strong><br>Humana Inc. ha
+ s mandated BofA Securities\, Citigroup\, Goldman Sachs\, Morgan Stanley\, 
+ and Wells Fargo Securities to host global fixed income investor calls on M
+ onday\, May 4th\, ahead of a potential issuance of 10-year and 30-year fix
+ ed-rate Pre-Capitalized Trust Securities (P-CAPs) denominated in U.S. doll
+ ars via newly formed trusts ('Horseshoe Funding Trust I' and 'Horseshoe Fu
+ nding Trust II'). The P-CAPs are expected to be offered under Rule 144A / 
+ Section 3(c)(7) and are anticipated to carry ratings of Baa2 (Negative) / 
+ BBB (Negative) / BBB- (Stable) from Moody's\, S&amp\;P\, and Fitch\, respe
+ ctively\, in line with Humana's existing senior unsecured notes. Goldman S
+ achs &amp\; Co. LLC is acting as Sole Structuring Advisor\, with Wells Far
+ go Securities coordinating marketing logistics\; the deal remains subject 
+ to market conditions.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
