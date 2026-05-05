@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9e0a0ce8b6c49fa6-3@daily.newissueiq
+DTSTAMP:20260505T191605Z
+DTSTART;TZID=America/New_York:20260505T130000
+DTEND;TZID=America/New_York:20260505T140000
+SUMMARY:SLM — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: SLM CORP (SLM)\nRoadshow: www.netroadshow.com | Entry Code: SLMQ12
+ 026 | Direct link: www.netroadshow.com/nrs/home/#!/?show=ee3b1fca (Recomme
+ nded)\n\nDeal context:\nSLM Corporation (Sallie Mae)\, rated Ba1/BB+/BB+ (
+ HY)\, has mandated J.P. Morgan and Barclays to arrange a series of fixed i
+ ncome investor calls on Tuesday\, May 5th\, 2026\, ahead of a potential of
+ fering of SEC-registered 6NC5 senior unsecured notes. The deal is at the M
+ andate stage with no size\, pricing\, or spread guidance yet disclosed\, s
+ ubject to market conditions. CFO Pete Graham will participate in three cal
+ l slots throughout the day\, with presentation materials available via Net
+ Roadshow.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> SLM CORP (SLM)</p><p><strong>Roadshow:</strong> www.netroadsh
+ ow.com | Entry Code: SLMQ12026 | Direct link: www.netroadshow.com/nrs/home
+ /#!/?show=ee3b1fca (Recommended)</p><p><strong>Deal context:</strong><br>S
+ LM Corporation (Sallie Mae)\, rated Ba1/BB+/BB+ (HY)\, has mandated J.P. M
+ organ and Barclays to arrange a series of fixed income investor calls on T
+ uesday\, May 5th\, 2026\, ahead of a potential offering of SEC-registered 
+ 6NC5 senior unsecured notes. The deal is at the Mandate stage with no size
+ \, pricing\, or spread guidance yet disclosed\, subject to market conditio
+ ns. CFO Pete Graham will participate in three call slots throughout the da
+ y\, with presentation materials available via NetRoadshow.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
