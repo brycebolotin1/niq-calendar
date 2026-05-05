@@ -108,5 +108,10 @@
     "id": "bf1dd42d-ef33-469f-8ed7-9fae8cb38215",
     "issuerName": "THE CLOROX CO",
     "alertedAt": "2026-05-05T13:24:46.685Z"
+  },
+  {
+    "id": "bd232a96-3851-4409-897a-7e3b07ebfcec",
+    "issuerName": "REPUBLIC OF ECUADOR",
+    "alertedAt": "2026-05-05T17:00:29.722Z"
   }
 ]
