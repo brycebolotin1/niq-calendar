@@ -43,5 +43,15 @@
     "id": "7dbe0ae3-d4ed-462c-bb1e-f8378625421b",
     "issuerName": "PATTERSON-UTI ENERGY",
     "alertedAt": "2026-05-04T15:32:09.356Z"
+  },
+  {
+    "id": "8403bf91-6ef6-47d6-b6d8-55c921e39ab3",
+    "issuerName": "BOOKING HOLDINGS INC",
+    "alertedAt": "2026-05-05T10:50:32.529Z"
+  },
+  {
+    "id": "794d6b39-0045-44ac-81e8-a462cc313cc0",
+    "issuerName": "CITY OF BUENOS AIRES",
+    "alertedAt": "2026-05-05T10:50:57.738Z"
   }
 ]
