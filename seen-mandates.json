@@ -53,5 +53,60 @@
     "id": "794d6b39-0045-44ac-81e8-a462cc313cc0",
     "issuerName": "CITY OF BUENOS AIRES",
     "alertedAt": "2026-05-05T10:50:57.738Z"
+  },
+  {
+    "id": "eada6873-c1f2-4417-bbfc-a82ef5c5ec8e",
+    "issuerName": "FEDERATIVE REPUBLIC OF BRAZIL",
+    "alertedAt": "2026-05-05T13:24:16.823Z"
+  },
+  {
+    "id": "ebe3714d-9049-439e-bab6-5d0c002d9a6a",
+    "issuerName": "GENTING BERHAD",
+    "alertedAt": "2026-05-05T13:24:19.710Z"
+  },
+  {
+    "id": "54e85b80-7bb0-48cc-a16d-5d9831db5ca6",
+    "issuerName": "SLM CORP",
+    "alertedAt": "2026-05-05T13:24:22.650Z"
+  },
+  {
+    "id": "b108b017-ff37-4ae3-8dc1-957408a8d294",
+    "issuerName": "AMERICAN CAMPUS COMMUNITIES ON CAMPUS FINANCING LLC",
+    "alertedAt": "2026-05-05T13:24:25.656Z"
+  },
+  {
+    "id": "c2c3c794-e33e-4bf4-bfbb-e4812ccfedc9",
+    "issuerName": "BANCO NACIONAL DE COMERCIO EXTERIOR S N C INSTITUCION DE BANCA DE DESARROLLO",
+    "alertedAt": "2026-05-05T13:24:28.612Z"
+  },
+  {
+    "id": "1f788ece-83f9-4ac8-a281-b622835aedfa",
+    "issuerName": "BANCO C6 SA",
+    "alertedAt": "2026-05-05T13:24:31.487Z"
+  },
+  {
+    "id": "39eedfbf-c849-42a9-9151-1b8252cb9c52",
+    "issuerName": "SAMMONS FINL GROUP INC",
+    "alertedAt": "2026-05-05T13:24:34.465Z"
+  },
+  {
+    "id": "7d821d5c-6fc3-4717-82a8-7c5687796978",
+    "issuerName": "COMPANIA GENERAL DE COMBUSTIBLES SA",
+    "alertedAt": "2026-05-05T13:24:37.624Z"
+  },
+  {
+    "id": "8c0d3aa7-aaa2-48e8-9876-a8ae713ca55f",
+    "issuerName": "OCEANICA ENGENHARIA E CONSULTORIA SA",
+    "alertedAt": "2026-05-05T13:24:40.605Z"
+  },
+  {
+    "id": "c89fcecb-96a2-4b4f-9992-5cd6b6d822b0",
+    "issuerName": "APA INFRASTRUCTURE LTD",
+    "alertedAt": "2026-05-05T13:24:43.661Z"
+  },
+  {
+    "id": "bf1dd42d-ef33-469f-8ed7-9fae8cb38215",
+    "issuerName": "THE CLOROX CO",
+    "alertedAt": "2026-05-05T13:24:46.685Z"
   }
 ]

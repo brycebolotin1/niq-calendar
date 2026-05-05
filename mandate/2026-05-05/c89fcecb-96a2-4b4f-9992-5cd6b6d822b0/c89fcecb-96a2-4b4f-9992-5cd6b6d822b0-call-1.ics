@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+BEGIN:STANDARD
+DTSTART:20080406T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20081005T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6e9a700f2280a0f3-1@daily.newissueiq
+DTSTAMP:20260505T132440Z
+DTSTART;TZID=Australia/Sydney:20260413T110000
+DTEND;TZID=Australia/Sydney:20260413T114500
+SUMMARY:APAAU — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: APA INFRASTRUCTURE LTD (APAAU)\nRoadshow: https://dealroadshow.com
+ /e/APA26GIC | OR visit https://dealroadshow.com and enter deal entry code:
+  APA26GIC\n\nDeal context:\nAPA Infrastructure Limited (APAAU)\, guarantee
+ d by APA Group Limited and rated Baa2/BBB (Stable) by Moody's/S&P\, has ma
+ ndated ANZ\, Barclays/Barrenjoey\, CBA\, NAB\, and Westpac as Joint Lead M
+ anagers for a potential AUD-denominated benchmark-sized senior unsecured a
+ nd/or subordinated notes offering across multiple tenors (7.5-year\, 10-ye
+ ar\, 30NC7.5\, and/or 30NC10). The deal is at the Mandate stage\, with inv
+ estor meetings scheduled across Melbourne\, Sydney\, Singapore\, and Hong 
+ Kong commencing Monday 13 April 2026\, and a group investor call on the sa
+ me date at 11:00am AEST. Senior notes are expected to be rated Baa2/BBB wh
+ ile subordinated notes are expected to be rated Baa3 by Moody's\, with Bar
+ renjoey acting as Structuring Adviser for the potential subordinated notes
+ .
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> APA INFRASTRUCTURE LTD (APAAU)</p><p><strong>Roadshow:</stron
+ g> https://dealroadshow.com/e/APA26GIC | OR visit https://dealroadshow.com
+  and enter deal entry code: APA26GIC</p><p><strong>Deal context:</strong><
+ br>APA Infrastructure Limited (APAAU)\, guaranteed by APA Group Limited an
+ d rated Baa2/BBB (Stable) by Moody's/S&amp\;P\, has mandated ANZ\, Barclay
+ s/Barrenjoey\, CBA\, NAB\, and Westpac as Joint Lead Managers for a potent
+ ial AUD-denominated benchmark-sized senior unsecured and/or subordinated n
+ otes offering across multiple tenors (7.5-year\, 10-year\, 30NC7.5\, and/o
+ r 30NC10). The deal is at the Mandate stage\, with investor meetings sched
+ uled across Melbourne\, Sydney\, Singapore\, and Hong Kong commencing Mond
+ ay 13 April 2026\, and a group investor call on the same date at 11:00am A
+ EST. Senior notes are expected to be rated Baa2/BBB while subordinated not
+ es are expected to be rated Baa3 by Moody's\, with Barrenjoey acting as St
+ ructuring Adviser for the potential subordinated notes.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

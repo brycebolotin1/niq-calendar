@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e3d41b52b8ed164e-1@daily.newissueiq
+DTSTAMP:20260505T132443Z
+DTSTART;TZID=America/New_York:20260505T120000
+DTEND;TZID=America/New_York:20260505T130000
+SUMMARY:CLX — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: THE CLOROX CO (CLX)\nRoadshow: URL: https://dealroadshow.com | Ent
+ ry Code: CLOROX2026 | Direct Link: https://dealroadshow.com/e/CLOROX2026\n
+ \nDeal context:\nThe Clorox Company (CLX)\, rated Baa1 (Negative)/BBB (Sta
+ ble)\, is holding fixed income investor calls on Tuesday\, May 5\, 2026\, 
+ arranged by Citigroup\, JPMorgan\, and Wells Fargo Securities. A SEC-regis
+ tered USD Senior Unsecured Notes offering may follow\, subject to market c
+ onditions\, with Citigroup coordinating logistics. This is a mandate-stage
+  announcement with no size\, tenor\, or pricing details disclosed.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> THE CLOROX CO (CLX)</p><p><strong>Roadshow:</strong> URL: htt
+ ps://dealroadshow.com | Entry Code: CLOROX2026 | Direct Link: https://deal
+ roadshow.com/e/CLOROX2026</p><p><strong>Deal context:</strong><br>The Clor
+ ox Company (CLX)\, rated Baa1 (Negative)/BBB (Stable)\, is holding fixed i
+ ncome investor calls on Tuesday\, May 5\, 2026\, arranged by Citigroup\, J
+ PMorgan\, and Wells Fargo Securities. A SEC-registered USD Senior Unsecure
+ d Notes offering may follow\, subject to market conditions\, with Citigrou
+ p coordinating logistics. This is a mandate-stage announcement with no siz
+ e\, tenor\, or pricing details disclosed.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
