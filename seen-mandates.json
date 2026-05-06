@@ -113,5 +113,15 @@
     "id": "bd232a96-3851-4409-897a-7e3b07ebfcec",
     "issuerName": "REPUBLIC OF ECUADOR",
     "alertedAt": "2026-05-05T17:00:29.722Z"
+  },
+  {
+    "id": "fd45479d-8f6a-4948-97f4-9d2fbe360a11",
+    "issuerName": "MAXIMA GRUPE",
+    "alertedAt": "2026-05-06T10:30:49.034Z"
+  },
+  {
+    "id": "f21fb65b-d89a-4fca-a469-4975d2afac39",
+    "issuerName": "KREDITANSTALT FUER WIEDERAUFBAU KFW",
+    "alertedAt": "2026-05-06T10:30:51.831Z"
   }
 ]
