@@ -123,5 +123,10 @@
     "id": "f21fb65b-d89a-4fca-a469-4975d2afac39",
     "issuerName": "KREDITANSTALT FUER WIEDERAUFBAU KFW",
     "alertedAt": "2026-05-06T10:30:51.831Z"
+  },
+  {
+    "id": "52653bd5-8ad1-4a6f-ba5b-69b17cbab88b",
+    "issuerName": "SIBANYE STILLWATER LTD",
+    "alertedAt": "2026-05-06T12:30:55.278Z"
   }
 ]
