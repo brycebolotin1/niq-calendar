@@ -143,5 +143,15 @@
     "id": "d3a35b2b-94a6-4ff8-82a7-1c7f64d953e2",
     "issuerName": "PINNACLE FINL PARTNERS INC",
     "alertedAt": "2026-05-11T13:00:25.390Z"
+  },
+  {
+    "id": "d5e355fd-a52d-4e61-9154-4e318af31bd9",
+    "issuerName": "LIBERTY UTILITIES CO",
+    "alertedAt": "2026-05-11T13:20:26.608Z"
+  },
+  {
+    "id": "6621dbec-d5e5-4a74-8828-d83d8e9737b3",
+    "issuerName": "FORTIVE CORP",
+    "alertedAt": "2026-05-11T13:20:29.788Z"
   }
 ]
