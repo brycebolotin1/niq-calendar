@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bc2a5ab9a678f608-1@daily.newissueiq
+DTSTAMP:20260511T135109Z
+DTSTART;TZID=America/New_York:20260511T110000
+DTEND;TZID=America/New_York:20260511T114500
+SUMMARY:TRAVLEI — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: TRAVEL + LEISURE CO (TRAVLEI)\nRoadshow: https://www.netroadshow.c
+ om/events/login/1PeTHmojHd5dB3yMIBzrnPA9h0xtntsGpjxlW\n\nDeal context:\nTr
+ avel + Leisure Co. (TNL) is bringing a $900 million Senior Secured 5-NC2 b
+ ond offering to market\, rated Ba3/BB-/BB+ (Moody's/S&P/Fitch)\, with Deut
+ sche Bank acting as Left Lead and B&D. The proceeds will primarily be used
+  to repay the $650 million senior secured notes due July 2026 and outstand
+ ing revolving credit facility borrowings\, with any remaining proceeds for
+  general corporate purposes. The deal is pricing the same afternoon as ann
+ ouncement (May 11th)\, with a global investor call at 11:00 AM ET\, and is
+  structured as 144A/Reg S for Life with standard 5-NC2 call provisions and
+  a 40% equity clawback.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> TRAVEL + LEISURE CO (TRAVLEI)</p><p><strong>Roadshow:</strong
+ > https://www.netroadshow.com/events/login/1PeTHmojHd5dB3yMIBzrnPA9h0xtnts
+ GpjxlW</p><p><strong>Deal context:</strong><br>Travel + Leisure Co. (TNL) 
+ is bringing a $900 million Senior Secured 5-NC2 bond offering to market\, 
+ rated Ba3/BB-/BB+ (Moody's/S&amp\;P/Fitch)\, with Deutsche Bank acting as 
+ Left Lead and B&amp\;D. The proceeds will primarily be used to repay the $
+ 650 million senior secured notes due July 2026 and outstanding revolving c
+ redit facility borrowings\, with any remaining proceeds for general corpor
+ ate purposes. The deal is pricing the same afternoon as announcement (May 
+ 11th)\, with a global investor call at 11:00 AM ET\, and is structured as 
+ 144A/Reg S for Life with standard 5-NC2 call provisions and a 40% equity c
+ lawback.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
