@@ -153,5 +153,10 @@
     "id": "6621dbec-d5e5-4a74-8828-d83d8e9737b3",
     "issuerName": "FORTIVE CORP",
     "alertedAt": "2026-05-11T13:20:29.788Z"
+  },
+  {
+    "id": "7d87d01f-079d-4b1c-b5b2-d00dec8f3db5",
+    "issuerName": "FEDERAL AGRICULTURAL MORTGAGE CORPORATION",
+    "alertedAt": "2026-05-11T16:31:09.859Z"
   }
 ]

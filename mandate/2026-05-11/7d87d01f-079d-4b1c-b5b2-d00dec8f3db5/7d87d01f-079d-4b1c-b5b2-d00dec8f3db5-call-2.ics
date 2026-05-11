@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4c6d10dac75be980-2@daily.newissueiq
+DTSTAMP:20260511T163104Z
+DTSTART;TZID=America/New_York:20260511T150000
+DTEND;TZID=America/New_York:20260511T154500
+SUMMARY:FAMCA — Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: FEDERAL AGRICULTURAL MORTGAGE CORPORATION (FAMCA)\nRoadshow: Direc
+ t Link (Recommended): https://dealroadshow.com/e/FarmerMac_2026 | Link: ht
+ tps://dealroadshow.com | Password: FarmerMac_2026\n\nDeal context:\nFedera
+ l Agricultural Mortgage Corporation ('Farmer Mac'\, Bloomberg Ticker: FAMC
+ A) is conducting a series of fixed income investor calls on May 11th\, 202
+ 6\, ahead of a potential Section 3(a)(2) exempt $25 par preferred stock of
+ fering\, subject to market conditions. The deal is at the Mandate stage\, 
+ with Morgan Stanley arranging investor calls and coordinating logistics\, 
+ with no pricing terms\, size\, or ratings disclosed at this stage. A preli
+ minary offering circular dated May 11\, 2026 has been prepared\, and a pre
+ -recorded DealRoadshow presentation is available for investor review.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> FEDERAL AGRICULTURAL MORTGAGE CORPORATION (FAMCA)</p><p><stro
+ ng>Roadshow:</strong> Direct Link (Recommended): https://dealroadshow.com/
+ e/FarmerMac_2026 | Link: https://dealroadshow.com | Password: FarmerMac_20
+ 26</p><p><strong>Deal context:</strong><br>Federal Agricultural Mortgage C
+ orporation ('Farmer Mac'\, Bloomberg Ticker: FAMCA) is conducting a series
+  of fixed income investor calls on May 11th\, 2026\, ahead of a potential 
+ Section 3(a)(2) exempt $25 par preferred stock offering\, subject to marke
+ t conditions. The deal is at the Mandate stage\, with Morgan Stanley arran
+ ging investor calls and coordinating logistics\, with no pricing terms\, s
+ ize\, or ratings disclosed at this stage. A preliminary offering circular 
+ dated May 11\, 2026 has been prepared\, and a pre-recorded DealRoadshow pr
+ esentation is available for investor review.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
