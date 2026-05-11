@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4f1fa854aacb40fa-1@daily.newissueiq
+DTSTAMP:20260511T112709Z
+DTSTART;TZID=America/New_York:20260510T093000
+DTEND;TZID=America/New_York:20260510T101500
+SUMMARY:SBSW — Global Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: SIBANYE STILLWATER LTD (SBSW)\nRoadshow: NetRoadshow presentation 
+ with voiceover recording available\n\nDeal context:\nSibanye-Stillwater UK
+  Financing Plc\, a wholly owned subsidiary of South African mining group S
+ ibanye-Stillwater (JSE: SSW / NYSE: SBSW\, rated Ba2/BB/BB)\, is launching
+  a US$500MM WNG 144A/Reg S Senior Unsecured Note offering with a 5.5NC2 st
+ ructure\, with proceeds expected to support concurrent tender offers for S
+ tillwater Mining Company's outstanding 4.0% Notes due 2026 (any and all) a
+ nd 4.5% Notes due 2029 (capped at US$75MM). The deal is at the Mandate sta
+ ge\, with a Global Investor Call scheduled for 14:30 UK / 09:30 NY on Wedn
+ esday\, 6 May 2026\, followed by hybrid fixed income investor meetings in 
+ London\, with BofA Securities\, Mizuho\, Morgan Stanley\, Rand Merchant Ba
+ nk\, and RBC Capital Markets acting as Global Coordinators and Joint Bookr
+ unners\; no pricing terms have been disclosed and the offering remains sub
+ ject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> SIBANYE STILLWATER LTD (SBSW)</p><p><strong>Roadshow:</strong
+ > NetRoadshow presentation with voiceover recording available</p><p><stron
+ g>Deal context:</strong><br>Sibanye-Stillwater UK Financing Plc\, a wholly
+  owned subsidiary of South African mining group Sibanye-Stillwater (JSE: S
+ SW / NYSE: SBSW\, rated Ba2/BB/BB)\, is launching a US$500MM WNG 144A/Reg 
+ S Senior Unsecured Note offering with a 5.5NC2 structure\, with proceeds e
+ xpected to support concurrent tender offers for Stillwater Mining Company'
+ s outstanding 4.0% Notes due 2026 (any and all) and 4.5% Notes due 2029 (c
+ apped at US$75MM). The deal is at the Mandate stage\, with a Global Invest
+ or Call scheduled for 14:30 UK / 09:30 NY on Wednesday\, 6 May 2026\, foll
+ owed by hybrid fixed income investor meetings in London\, with BofA Securi
+ ties\, Mizuho\, Morgan Stanley\, Rand Merchant Bank\, and RBC Capital Mark
+ ets acting as Global Coordinators and Joint Bookrunners\; no pricing terms
+  have been disclosed and the offering remains subject to market conditions
+ .</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
