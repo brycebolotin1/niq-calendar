@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f94ac3125487e287-2@daily.newissueiq
+DTSTAMP:20260511T124631Z
+DTSTART;TZID=America/New_York:20260511T130000
+DTEND;TZID=America/New_York:20260511T134500
+SUMMARY:NOW — Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: SERVICENOW INC (NOW)\nRoadshow: URL: www.netroadshow.com | Entry C
+ ode: NOW26 | Direct Link: www.netroadshow.com/nrs/home/#!/?show=d6a3353e\n
+ \nDeal context:\nServiceNow\, Inc. (A2 positive/A stable) has mandated Bar
+ clays\, Citigroup\, J.P. Morgan\, and Wells Fargo Securities to arrange a 
+ series of fixed income investor calls on Monday\, May 11th\, with J.P. Mor
+ gan coordinating logistics. This is a mandate-stage announcement with no s
+ pecific deal size\, tenor\, or pricing terms disclosed. The company\, a le
+ ading enterprise AI platform provider\, is conducting three investor calls
+  and providing roadshow access via NetRoadshow ahead of a potential bond i
+ ssuance.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> SERVICENOW INC (NOW)</p><p><strong>Roadshow:</strong> URL: ww
+ w.netroadshow.com | Entry Code: NOW26 | Direct Link: www.netroadshow.com/n
+ rs/home/#!/?show=d6a3353e</p><p><strong>Deal context:</strong><br>ServiceN
+ ow\, Inc. (A2 positive/A stable) has mandated Barclays\, Citigroup\, J.P. 
+ Morgan\, and Wells Fargo Securities to arrange a series of fixed income in
+ vestor calls on Monday\, May 11th\, with J.P. Morgan coordinating logistic
+ s. This is a mandate-stage announcement with no specific deal size\, tenor
+ \, or pricing terms disclosed. The company\, a leading enterprise AI platf
+ orm provider\, is conducting three investor calls and providing roadshow a
+ ccess via NetRoadshow ahead of a potential bond issuance.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

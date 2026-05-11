@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c4f77ce466428599-1@daily.newissueiq
+DTSTAMP:20260511T124631Z
+DTSTART;TZID=America/New_York:20260511T100000
+DTEND;TZID=America/New_York:20260511T104500
+SUMMARY:ECPG — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: ENCORE CAPITAL (ECPG)\nRoadshow: https://www.netroadshow.com/event
+ s/login/1PeTHmojHBOQktPoYdZdDl7LuKaYQ2T3wOzlQ | Passcode: ENCOREHY2026\n\n
+ Deal context:\nEncore Capital Group\, Inc. (ECPG)\, a US-based debt recove
+ ry solutions provider\, is bringing a $550 million 6-year Senior Secured N
+ otes offering via 144A-for-Life / Reg S format\, rated Ba3/BB+ (Moody's/Fi
+ tch)\, with a non-call 2 structure. Proceeds\, together with revolver borr
+ owings\, will be used to fully repay existing Senior Secured Notes due Apr
+ il 2029 (including premium and accrued interest) and partially redeem exis
+ ting Floating Rate Notes due January 2028 (including accrued interest)\, p
+ lus transaction fees and expenses. The deal is expected to price as today'
+ s business on May 11\, 2026\, with a conference call at 10:00AM ET\, led b
+ y Morgan Stanley alongside a broad 12-bank syndicate.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> ENCORE CAPITAL (ECPG)</p><p><strong>Roadshow:</strong> https:
+ //www.netroadshow.com/events/login/1PeTHmojHBOQktPoYdZdDl7LuKaYQ2T3wOzlQ |
+  Passcode: ENCOREHY2026</p><p><strong>Deal context:</strong><br>Encore Cap
+ ital Group\, Inc. (ECPG)\, a US-based debt recovery solutions provider\, i
+ s bringing a $550 million 6-year Senior Secured Notes offering via 144A-fo
+ r-Life / Reg S format\, rated Ba3/BB+ (Moody's/Fitch)\, with a non-call 2 
+ structure. Proceeds\, together with revolver borrowings\, will be used to 
+ fully repay existing Senior Secured Notes due April 2029 (including premiu
+ m and accrued interest) and partially redeem existing Floating Rate Notes 
+ due January 2028 (including accrued interest)\, plus transaction fees and 
+ expenses. The deal is expected to price as today's business on May 11\, 20
+ 26\, with a conference call at 10:00AM ET\, led by Morgan Stanley alongsid
+ e a broad 12-bank syndicate.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

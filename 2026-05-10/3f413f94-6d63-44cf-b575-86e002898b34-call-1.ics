@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0ef3fcb80be192f7-1@daily.newissueiq
+DTSTAMP:20260511T124631Z
+DTSTART;TZID=America/New_York:20260511T110000
+DTEND;TZID=America/New_York:20260511T114500
+SUMMARY:STARWOOD PROPERTY TR INC — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: STARWOOD PROPERTY TR INC\nRoadshow: URL: https://dealroadshow.com 
+ | Entry Code: STAR26 | Direct Link: https://dealroadshow.com/e/STAR26 (ava
+ ilable now)\n\nDeal context:\nStarwood Property Trust\, Inc. is bringing a
+  $600 million (WNG) senior notes offering to market via a 144A/Reg S for l
+ ife format\, with a 5NCL (5-year non-call life) structure rated Ba3/BB-/BB
+ +. The deal is led by a large joint bookrunner group of 8 banks (JPM/BOFA/
+ BARC/CITI/DB/GS/MS/WFS) with initial price talk of 6.25-6.50%\, with proce
+ eds intended to redeem or repay the 3.625% Notes due 2026 and for general 
+ corporate purposes. The deal is expected to price today with an investor c
+ all at 11 AM ET.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> STARWOOD PROPERTY TR INC</p><p><strong>Roadshow:</strong> URL
+ : https://dealroadshow.com | Entry Code: STAR26 | Direct Link: https://dea
+ lroadshow.com/e/STAR26 (available now)</p><p><strong>Deal context:</strong
+ ><br>Starwood Property Trust\, Inc. is bringing a $600 million (WNG) senio
+ r notes offering to market via a 144A/Reg S for life format\, with a 5NCL 
+ (5-year non-call life) structure rated Ba3/BB-/BB+. The deal is led by a l
+ arge joint bookrunner group of 8 banks (JPM/BOFA/BARC/CITI/DB/GS/MS/WFS) w
+ ith initial price talk of 6.25-6.50%\, with proceeds intended to redeem or
+  repay the 3.625% Notes due 2026 and for general corporate purposes. The d
+ eal is expected to price today with an investor call at 11 AM ET.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

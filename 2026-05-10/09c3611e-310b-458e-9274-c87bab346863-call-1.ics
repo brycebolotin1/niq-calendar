@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a7b0385d1eff179e-1@daily.newissueiq
+DTSTAMP:20260511T124631Z
+DTSTART;TZID=America/New_York:20260511T110000
+DTEND;TZID=America/New_York:20260511T114500
+SUMMARY:AMERIGAS PARTNERS LP — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: AMERIGAS PARTNERS LP\nRoadshow: https://www.netroadshow.com/events
+ /login/1PeTHmohHZm8Ru9WL6T1VxcpBnSxuYxeZtJB6\n\nDeal context:\nAmeriGas Pa
+ rtners\, L.P. and AmeriGas Finance Corp. are co-issuing $500 million in Se
+ nior Unsecured Notes due 2031 (5NC2 structure) rated B1/BB- (Moody's/Fitch
+ )\, distributed via 144A/Reg S for Life\, with pricing expected the aftern
+ oon of May 11\, 2026. The proceeds\, alongside a $300 million cash equity 
+ contribution from parent UGI Corporation (via UGI International\, LLC)\, w
+ ill be used to fund tender offers and redemptions of the 5.750% Senior Not
+ es due 2027 and 9.375% Senior Notes due 2028\, repay an intercompany loan 
+ from UGII\, and cover transaction fees — a classic liability management/re
+ financing transaction for the largest U.S. retail propane marketer. WFS is
+  acting as Left Lead and B&D\, with BNP as joint active bookrunner\, and s
+ ettlement is T+7 on May 20\, 2026.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> AMERIGAS PARTNERS LP</p><p><strong>Roadshow:</strong> https:/
+ /www.netroadshow.com/events/login/1PeTHmohHZm8Ru9WL6T1VxcpBnSxuYxeZtJB6</p
+ ><p><strong>Deal context:</strong><br>AmeriGas Partners\, L.P. and AmeriGa
+ s Finance Corp. are co-issuing $500 million in Senior Unsecured Notes due 
+ 2031 (5NC2 structure) rated B1/BB- (Moody's/Fitch)\, distributed via 144A/
+ Reg S for Life\, with pricing expected the afternoon of May 11\, 2026. The
+  proceeds\, alongside a $300 million cash equity contribution from parent 
+ UGI Corporation (via UGI International\, LLC)\, will be used to fund tende
+ r offers and redemptions of the 5.750% Senior Notes due 2027 and 9.375% Se
+ nior Notes due 2028\, repay an intercompany loan from UGII\, and cover tra
+ nsaction fees — a classic liability management/refinancing transaction for
+  the largest U.S. retail propane marketer. WFS is acting as Left Lead and 
+ B&amp\;D\, with BNP as joint active bookrunner\, and settlement is T+7 on 
+ May 20\, 2026.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

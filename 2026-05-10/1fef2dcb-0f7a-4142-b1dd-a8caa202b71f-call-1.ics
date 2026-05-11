@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5cff8e5982afc8ff-1@daily.newissueiq
+DTSTAMP:20260511T124631Z
+DTSTART;TZID=America/New_York:20260511T103000
+DTEND;TZID=America/New_York:20260511T111500
+SUMMARY:PARR — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: PAR PETROLEUM LLC (PARR)\nRoadshow: https://dealroadshow.com/e/PAR
+ 2026 | Passcode: PAR2026\n\nDeal context:\nPar Petroleum LLC (PARR)\, the 
+ issuer entity of Par Pacific — a Houston-based refining\, retail\, and log
+ istics company with ~$3.2Bn market cap — is bringing a $500M 8NC3 Senior U
+ nsecured Notes offering to market via 144A/Reg S for Life format\, rated B
+ 1/BB-/B+ (Moody's/S&P/Fitch\, all expected). The deal is being marketed vi
+ a a global investor call on Monday\, May 11\, 2026 at 10:30 am ET\, with I
+ PT in the Mid to High 7s\, targeting Tuesday's business for pricing. Proce
+ eds\, along with cash on hand\, will be used to refinance the existing Ter
+ m Loan B due 2030 and pay related fees and expenses.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> PAR PETROLEUM LLC (PARR)</p><p><strong>Roadshow:</strong> htt
+ ps://dealroadshow.com/e/PAR2026 | Passcode: PAR2026</p><p><strong>Deal con
+ text:</strong><br>Par Petroleum LLC (PARR)\, the issuer entity of Par Paci
+ fic — a Houston-based refining\, retail\, and logistics company with ~$3.2
+ Bn market cap — is bringing a $500M 8NC3 Senior Unsecured Notes offering t
+ o market via 144A/Reg S for Life format\, rated B1/BB-/B+ (Moody's/S&amp\;
+ P/Fitch\, all expected). The deal is being marketed via a global investor 
+ call on Monday\, May 11\, 2026 at 10:30 am ET\, with IPT in the Mid to Hig
+ h 7s\, targeting Tuesday's business for pricing. Proceeds\, along with cas
+ h on hand\, will be used to refinance the existing Term Loan B due 2030 an
+ d pay related fees and expenses.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
