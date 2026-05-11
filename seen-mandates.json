@@ -138,5 +138,10 @@
     "id": "f95e39ab-5497-43db-a251-8a2571f07fbc",
     "issuerName": "MOVIDA PARTICIPACOES SA",
     "alertedAt": "2026-05-11T12:50:26.825Z"
+  },
+  {
+    "id": "d3a35b2b-94a6-4ff8-82a7-1c7f64d953e2",
+    "issuerName": "PINNACLE FINL PARTNERS INC",
+    "alertedAt": "2026-05-11T13:00:25.390Z"
   }
 ]
