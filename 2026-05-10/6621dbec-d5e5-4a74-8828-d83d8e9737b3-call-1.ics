@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f9b909a27bb15d26-1@daily.newissueiq
+DTSTAMP:20260511T133039Z
+DTSTART;TZID=America/New_York:20260511T113000
+DTEND;TZID=America/New_York:20260511T121500
+SUMMARY:FTV — Call #1
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: FORTIVE CORP (FTV)\nRoadshow: www.netroadshow.com/nrs/home/#!/?sho
+ w=8c1e24e2 | https://netroadshow.com with Entry code: Fortive8246\n\nDeal 
+ context:\nFortive Corporation (NYSE: FTV)\, rated Baa1 stable/BBB stable (
+ Moody's/S&P)\, has mandated Morgan Stanley\, Barclays\, J.P. Morgan\, and 
+ Scotiabank to arrange fixed income investor calls on May 11\, 2026\, ahead
+  of a potential senior unsecured notes offering in SEC Registered format. 
+ The deal is at the Mandate stage with no size\, tenor\, or pricing informa
+ tion disclosed\; an offering may follow subject to market conditions. Morg
+ an Stanley is coordinating roadshow logistics\, with three telephonic call
+ s scheduled throughout the day and a pre-recorded electronic presentation 
+ available via NetRoadshow.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> FORTIVE CORP (FTV)</p><p><strong>Roadshow:</strong> www.netro
+ adshow.com/nrs/home/#!/?show=8c1e24e2 | https://netroadshow.com with Entry
+  code: Fortive8246</p><p><strong>Deal context:</strong><br>Fortive Corpora
+ tion (NYSE: FTV)\, rated Baa1 stable/BBB stable (Moody's/S&amp\;P)\, has m
+ andated Morgan Stanley\, Barclays\, J.P. Morgan\, and Scotiabank to arrang
+ e fixed income investor calls on May 11\, 2026\, ahead of a potential seni
+ or unsecured notes offering in SEC Registered format. The deal is at the M
+ andate stage with no size\, tenor\, or pricing information disclosed\; an 
+ offering may follow subject to market conditions. Morgan Stanley is coordi
+ nating roadshow logistics\, with three telephonic calls scheduled througho
+ ut the day and a pre-recorded electronic presentation available via NetRoa
+ dshow.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
