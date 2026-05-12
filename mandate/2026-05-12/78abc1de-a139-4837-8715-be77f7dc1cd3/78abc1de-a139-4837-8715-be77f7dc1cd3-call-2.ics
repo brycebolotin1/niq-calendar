@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c40c48cced0f42c4-2@daily.newissueiq
+DTSTAMP:20260512T152025Z
+DTSTART;TZID=America/New_York:20260512T130000
+DTEND;TZID=America/New_York:20260512T140000
+SUMMARY:CUMBERLAND COMBINED CYCLE GENERATION LLC — Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: CUMBERLAND COMBINED CYCLE GENERATION LLC\nRoadshow: https://dealro
+ adshow.com / Entry Code: TVA2026 | Direct Link: https://dealroadshow.com/e
+ /TVA2026\n\nDeal context:\nCumberland Combined Cycle Generation LLC\, a sp
+ ecial purpose entity associated with Tennessee Valley Authority (TVA)\, is
+  arranging a 3(a)(2)-exempt fixed-rate senior secured notes offering with 
+ a 20-year average life and 30-year final maturity\, expected to be rated A
+ a1/AA-/AA (Stable/Stable/Stable) by Moody's\, S&P\, and Fitch respectively
+ . The deal is being arranged by Morgan Stanley\, BofA Securities\, Barclay
+ s\, J.P. Morgan\, and RBC Capital Markets\, with investor calls scheduled 
+ for May 12\, 2026. No size or pricing terms have been disclosed at this st
+ age\, as the announcement is limited to investor call logistics ahead of a
+  formal offering\, subject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> CUMBERLAND COMBINED CYCLE GENERATION LLC</p><p><strong>Roadsh
+ ow:</strong> https://dealroadshow.com / Entry Code: TVA2026 | Direct Link:
+  https://dealroadshow.com/e/TVA2026</p><p><strong>Deal context:</strong><b
+ r>Cumberland Combined Cycle Generation LLC\, a special purpose entity asso
+ ciated with Tennessee Valley Authority (TVA)\, is arranging a 3(a)(2)-exem
+ pt fixed-rate senior secured notes offering with a 20-year average life an
+ d 30-year final maturity\, expected to be rated Aa1/AA-/AA (Stable/Stable/
+ Stable) by Moody's\, S&amp\;P\, and Fitch respectively. The deal is being 
+ arranged by Morgan Stanley\, BofA Securities\, Barclays\, J.P. Morgan\, an
+ d RBC Capital Markets\, with investor calls scheduled for May 12\, 2026. N
+ o size or pricing terms have been disclosed at this stage\, as the announc
+ ement is limited to investor call logistics ahead of a formal offering\, s
+ ubject to market conditions.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b3f1b024c5db4bb4-1@daily.newissueiq
+DTSTAMP:20260512T152022Z
+DTSTART;TZID=America/New_York:20260512T010000
+DTEND;TZID=America/New_York:20260512T015000
+SUMMARY:ORI — Call #1
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: OLD REPUBLIC INTL CORP (ORI)\nRoadshow: URL: https://dealroadshow.
+ com | Entry Code: ORI2026 | Direct Link: https://dealroadshow.com/e/ORI202
+ 6\n\nDeal context:\nOld Republic International Corporation (ORI) is conduc
+ ting fixed income investor marketing on May 12\, 2026\, with Morgan Stanle
+ y and PNC Capital Markets LLC arranging a series of investor calls ahead o
+ f a potential SEC-registered senior unsecured notes offering. The deal car
+ ries expected ratings of Baa2 (Moody's\, stable) and BBB+ (S&P\, stable)\,
+  placing it firmly in investment grade territory. No size\, tenor\, or pri
+ cing terms have been disclosed at this mandate stage\, with the offering s
+ ubject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> OLD REPUBLIC INTL CORP (ORI)</p><p><strong>Roadshow:</strong>
+  URL: https://dealroadshow.com | Entry Code: ORI2026 | Direct Link: https:
+ //dealroadshow.com/e/ORI2026</p><p><strong>Deal context:</strong><br>Old R
+ epublic International Corporation (ORI) is conducting fixed income investo
+ r marketing on May 12\, 2026\, with Morgan Stanley and PNC Capital Markets
+  LLC arranging a series of investor calls ahead of a potential SEC-registe
+ red senior unsecured notes offering. The deal carries expected ratings of 
+ Baa2 (Moody's\, stable) and BBB+ (S&amp\;P\, stable)\, placing it firmly i
+ n investment grade territory. No size\, tenor\, or pricing terms have been
+  disclosed at this mandate stage\, with the offering subject to market con
+ ditions.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

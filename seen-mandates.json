@@ -163,5 +163,20 @@
     "id": "ee1d4cc0-4d80-4710-a285-5a71086ca4dd",
     "issuerName": "TRINITY CAPITAL INC",
     "alertedAt": "2026-05-12T13:30:21.917Z"
+  },
+  {
+    "id": "8186530e-d845-44b5-9d1d-94dcd44cd5f9",
+    "issuerName": "MEDLINE BORROWER LP & MEDLINE CO-ISSUER INC",
+    "alertedAt": "2026-05-12T15:20:22.083Z"
+  },
+  {
+    "id": "788a08c6-92a8-432b-befa-ce248c7391c5",
+    "issuerName": "OLD REPUBLIC INTL CORP",
+    "alertedAt": "2026-05-12T15:20:25.159Z"
+  },
+  {
+    "id": "78abc1de-a139-4837-8715-be77f7dc1cd3",
+    "issuerName": "CUMBERLAND COMBINED CYCLE GENERATION LLC",
+    "alertedAt": "2026-05-12T15:20:28.126Z"
   }
 ]
