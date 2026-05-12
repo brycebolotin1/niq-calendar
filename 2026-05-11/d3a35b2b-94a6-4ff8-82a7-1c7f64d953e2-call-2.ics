@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b164e8848080a3ad-2@daily.newissueiq
+DTSTAMP:20260512T111123Z
+DTSTART;TZID=America/New_York:20260511T130000
+DTEND;TZID=America/New_York:20260511T140000
+SUMMARY:PNFP — Call #2
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: PINNACLE FINL PARTNERS INC (PNFP)\nRoadshow: Direct Link (Recommen
+ ded): https://dealroadshow.com/e/PNFP2026 | Link: https://dealroadshow.com
+  | Password: PNFP2026\n\nDeal context:\nPinnacle Financial Partners\, Inc.
+  (PNFP) is arranging fixed income investor marketing calls on May 11th\, 2
+ 026\, with Morgan Stanley\, Goldman Sachs & Co. LLC\, and RBC Capital Mark
+ ets as arrangers\, ahead of a potential SEC Registered senior unsecured no
+ tes offering. The deal carries expected ratings of Baa3/BBB-/BBB from Mood
+ y's\, S&P\, and Fitch respectively\, placing it firmly in investment grade
+  territory. No size\, tenor\, or pricing terms have been disclosed at this
+  stage\, as the announcement is a pre-deal investor call/roadshow mandate 
+ with the offering subject to market conditions.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> PINNACLE FINL PARTNERS INC (PNFP)</p><p><strong>Roadshow:</st
+ rong> Direct Link (Recommended): https://dealroadshow.com/e/PNFP2026 | Lin
+ k: https://dealroadshow.com | Password: PNFP2026</p><p><strong>Deal contex
+ t:</strong><br>Pinnacle Financial Partners\, Inc. (PNFP) is arranging fixe
+ d income investor marketing calls on May 11th\, 2026\, with Morgan Stanley
+ \, Goldman Sachs &amp\; Co. LLC\, and RBC Capital Markets as arrangers\, a
+ head of a potential SEC Registered senior unsecured notes offering. The de
+ al carries expected ratings of Baa3/BBB-/BBB from Moody's\, S&amp\;P\, and
+  Fitch respectively\, placing it firmly in investment grade territory. No 
+ size\, tenor\, or pricing terms have been disclosed at this stage\, as the
+  announcement is a pre-deal investor call/roadshow mandate with the offeri
+ ng subject to market conditions.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

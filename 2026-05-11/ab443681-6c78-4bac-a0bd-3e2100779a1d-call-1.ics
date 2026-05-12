@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:094198bc2d2ecca5-1@daily.newissueiq
+DTSTAMP:20260512T111123Z
+DTSTART;TZID=America/New_York:20260512T120000
+DTEND;TZID=America/New_York:20260512T124500
+SUMMARY:RITHCAP — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: RITHM CAPITAL CORP (RITHCAP)\nRoadshow: URL: https://dealroadshow.
+ com | Entry Code: RITHM2026 | Direct Link: https://dealroadshow.com/e/RITH
+ M2026 (available 10 minutes prior)\n\nDeal context:\nRithm Capital Corp. i
+ s bringing a $500M 5NC2 Senior Notes offering to market via 144A/Reg S for
+  life format\, with initial price talk in the mid-8s area. The deal is rat
+ ed B2/B-/B+ (HY) and proceeds will be used for general corporate purposes 
+ including repayment of MSR debt\, reflecting the company's real estate and
+  financial services focus. Pricing is expected Tuesday\, May 12\, with joi
+ nt books run by JPM\, Citi\, and Goldman Sachs.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> RITHM CAPITAL CORP (RITHCAP)</p><p><strong>Roadshow:</strong>
+  URL: https://dealroadshow.com | Entry Code: RITHM2026 | Direct Link: http
+ s://dealroadshow.com/e/RITHM2026 (available 10 minutes prior)</p><p><stron
+ g>Deal context:</strong><br>Rithm Capital Corp. is bringing a $500M 5NC2 S
+ enior Notes offering to market via 144A/Reg S for life format\, with initi
+ al price talk in the mid-8s area. The deal is rated B2/B-/B+ (HY) and proc
+ eeds will be used for general corporate purposes including repayment of MS
+ R debt\, reflecting the company's real estate and financial services focus
+ . Pricing is expected Tuesday\, May 12\, with joint books run by JPM\, Cit
+ i\, and Goldman Sachs.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

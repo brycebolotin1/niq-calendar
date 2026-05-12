@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2243e0a2f1acd4d2-1@daily.newissueiq
+DTSTAMP:20260512T111123Z
+DTSTART;TZID=America/New_York:20260512T110000
+DTEND;TZID=America/New_York:20260512T114500
+SUMMARY:DIRECTV FINANCING LLC & DIRECTV FINANCING CO-OBLIGOR INC — Investor
+  Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: DIRECTV FINANCING LLC & DIRECTV FINANCING CO-OBLIGOR INC\nRoadshow
+ : https://www.netroadshow.com/events/login/LE9zwo3gC87G3J4QOsbgSOjK75r6NMA
+ sem7 | Replay: https://www.netroadshow.com/events/login/1PeTHmohTjzGc1VUei
+ fNpIUBRcIHsL8cahaCJ\n\nDeal context:\nDIRECTV Financing\, LLC is launching
+  a $1.4 billion 6-year Senior Secured Notes offering (NC-2\, 2032 maturity
+ ) under 144A/Reg S format\, rated B1/B+/BB+ by Moody's/S&P/Fitch. Proceeds
+ \, together with cash on hand\, will be used to fund a Cash Tender Offer f
+ or up to $1.4 billion of outstanding 2027 Notes and to pay related fees an
+ d expenses. The deal is being led by UBS as B&D with a broad syndicate inc
+ luding BARC\, DB\, HSBC\, BofA\, GS\, TPG\, MUFG\, BMO\, MIZ\, and JEFF\, 
+ with an investor call scheduled for 5/11 at 11:00 a.m. ET and pricing expe
+ cted the week of 5/11.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> DIRECTV FINANCING LLC &amp\; DIRECTV FINANCING CO-OBLIGOR INC
+ </p><p><strong>Roadshow:</strong> https://www.netroadshow.com/events/login
+ /LE9zwo3gC87G3J4QOsbgSOjK75r6NMAsem7 | Replay: https://www.netroadshow.com
+ /events/login/1PeTHmohTjzGc1VUeifNpIUBRcIHsL8cahaCJ</p><p><strong>Deal con
+ text:</strong><br>DIRECTV Financing\, LLC is launching a $1.4 billion 6-ye
+ ar Senior Secured Notes offering (NC-2\, 2032 maturity) under 144A/Reg S f
+ ormat\, rated B1/B+/BB+ by Moody's/S&amp\;P/Fitch. Proceeds\, together wit
+ h cash on hand\, will be used to fund a Cash Tender Offer for up to $1.4 b
+ illion of outstanding 2027 Notes and to pay related fees and expenses. The
+  deal is being led by UBS as B&amp\;D with a broad syndicate including BAR
+ C\, DB\, HSBC\, BofA\, GS\, TPG\, MUFG\, BMO\, MIZ\, and JEFF\, with an in
+ vestor call scheduled for 5/11 at 11:00 a.m. ET and pricing expected the w
+ eek of 5/11.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
