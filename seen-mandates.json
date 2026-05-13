@@ -178,5 +178,15 @@
     "id": "78abc1de-a139-4837-8715-be77f7dc1cd3",
     "issuerName": "CUMBERLAND COMBINED CYCLE GENERATION LLC",
     "alertedAt": "2026-05-12T15:20:28.126Z"
+  },
+  {
+    "id": "1b84a777-0e41-4113-b454-c9fc0cc12f40",
+    "issuerName": "PAMPA ENERGIA SA",
+    "alertedAt": "2026-05-13T12:41:17.447Z"
+  },
+  {
+    "id": "e0f4b4a7-f02d-4f30-aa3a-4f0c472900a3",
+    "issuerName": "POSCO HOLDINGS INC",
+    "alertedAt": "2026-05-13T12:41:20.499Z"
   }
 ]
