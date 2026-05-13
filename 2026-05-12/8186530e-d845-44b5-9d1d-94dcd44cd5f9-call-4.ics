@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9df7010052078830-4@daily.newissueiq
+DTSTAMP:20260513T133200Z
+DTSTART;TZID=America/New_York:20260513T150000
+DTEND;TZID=America/New_York:20260513T154500
+SUMMARY:MEDLINE BORROWER LP & MEDLINE CO-ISSUER INC — Call #4
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: MEDLINE BORROWER LP & MEDLINE CO-ISSUER INC\nRoadshow: https://mar
+ kets.jpmorgan.com/event_booking/loadEvent?eventToken=134988_80262e08-a23e-
+ 444f-88e9-4df450b8292c\n\nDeal context:\nMedline Borrower\, LP & Medline C
+ o-Issuer\, Inc. has mandated J.P. Morgan\, BofA Securities\, and Goldman S
+ achs & Co. LLC to arrange fixed income investor calls on May 12\, 2026\, a
+ head of a potential USD-denominated 144A/Reg S senior secured offering sub
+ ject to market conditions. The deal carries split ratings of Ba1 (Stable) 
+ / BBB- (Stable) / BBB (Stable) by Moody's\, S&P\, and Fitch respectively\,
+  placing it in split-rated territory with two investment grade agency rati
+ ngs. No size\, tenor\, or pricing terms have been disclosed at this mandat
+ e stage.\n\nJ.P. Morgan will be coordinating logistics.\n\nDirect Link for
+  Investor Sign-Ups: \nhttps://markets.jpmorgan.com/event_booking/loadEvent
+ ?eventToken=134988_80262e08-a23e-444f-88e9-4df450b8292c\n\nMedline will be
+  represented by:\nMike Drazin – Chief Financial Officer\nEric Gerstein – S
+ enior VP – Tax\, Treasury & Risk\n\nCall Schedule:\nInvestor Call #1: 12:0
+ 0pm – 12:45pm ET  \nInvestor Call #2: 1:00pm – 1:45pm ET\nInvestor Call #3
+ : 2:00pm – 2:45pm ET\nInvestor Call #4: 3:00pm – 3:45pm ET\n\nAbout Medlin
+ e Inc.\nMedline is the largest provider of medical-surgical products and s
+ upply chain solutions serving all points of care. Through its broad produc
+ t portfolio\, resilient supply chain and leading clinical solutions\, Medl
+ ine helps healthcare providers improve their clinical\, financial and oper
+ ational outcomes. Headquartered in Northfield\, Ill.\, Medline employs mor
+ e than 45\,000 people worldwide and operates in more than 100 countries.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> MEDLINE BORROWER LP &amp\; MEDLINE CO-ISSUER INC</p><p><stron
+ g>Roadshow:</strong> https://markets.jpmorgan.com/event_booking/loadEvent?
+ eventToken=134988_80262e08-a23e-444f-88e9-4df450b8292c</p><p><strong>Deal 
+ context:</strong><br>Medline Borrower\, LP &amp\; Medline Co-Issuer\, Inc.
+  has mandated J.P. Morgan\, BofA Securities\, and Goldman Sachs &amp\; Co.
+  LLC to arrange fixed income investor calls on May 12\, 2026\, ahead of a 
+ potential USD-denominated 144A/Reg S senior secured offering subject to ma
+ rket conditions. The deal carries split ratings of Ba1 (Stable) / BBB- (St
+ able) / BBB (Stable) by Moody's\, S&amp\;P\, and Fitch respectively\, plac
+ ing it in split-rated territory with two investment grade agency ratings. 
+ No size\, tenor\, or pricing terms have been disclosed at this mandate sta
+ ge.<br><br>J.P. Morgan will be coordinating logistics.<br><br>Direct Link 
+ for Investor Sign-Ups: <br>https://markets.jpmorgan.com/event_booking/load
+ Event?eventToken=134988_80262e08-a23e-444f-88e9-4df450b8292c<br><br>Medlin
+ e will be represented by:<br>Mike Drazin – Chief Financial Officer<br>Eric
+  Gerstein – Senior VP – Tax\, Treasury &amp\; Risk<br><br>Call Schedule:<b
+ r>Investor Call #1: 12:00pm – 12:45pm ET  <br>Investor Call #2: 1:00pm – 1
+ :45pm ET<br>Investor Call #3: 2:00pm – 2:45pm ET<br>Investor Call #4: 3:00
+ pm – 3:45pm ET<br><br>About Medline Inc.<br>Medline is the largest provide
+ r of medical-surgical products and supply chain solutions serving all poin
+ ts of care. Through its broad product portfolio\, resilient supply chain a
+ nd leading clinical solutions\, Medline helps healthcare providers improve
+  their clinical\, financial and operational outcomes. Headquartered in Nor
+ thfield\, Ill.\, Medline employs more than 45\,000 people worldwide and op
+ erates in more than 100 countries.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

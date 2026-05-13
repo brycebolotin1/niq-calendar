@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e277ac0009c476d1-1@daily.newissueiq
+DTSTAMP:20260513T133200Z
+DTSTART;TZID=America/New_York:20260513T120000
+DTEND;TZID=America/New_York:20260513T124500
+SUMMARY:FAMCA — Call #1
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: FEDERAL AGRICULTURAL MORTGAGE CORPORATION (FAMCA)\nRoadshow: Direc
+ t Link (Recommended): https://dealroadshow.com/e/FarmerMac_2026 | Link: ht
+ tps://dealroadshow.com | Password: FarmerMac_2026\n\nDeal context:\nFedera
+ l Agricultural Mortgage Corporation (Farmer Mac\, ticker: AGM) is issuing 
+ $50 million of Non-Cumulative Preferred Stock\, Series I (2 million shares
+  at $25 par) in a perpetual\, fixed-for-life preferred equity offering via
+  a 3(a)(2) exempt format. Price guidance is set at 6.875% area\, with the 
+ offering priced at $25.00 per share\, listing expected on NYSE\, and settl
+ ement on May 19\, 2026 (T+5). Morgan Stanley is acting as sole bookrunner 
+ on this today's-business deal\, with optional redemption available on and 
+ after July 17\, 2031\, and quarterly non-cumulative dividends beginning Ju
+ ly 17\, 2026.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> FEDERAL AGRICULTURAL MORTGAGE CORPORATION (FAMCA)</p><p><stro
+ ng>Roadshow:</strong> Direct Link (Recommended): https://dealroadshow.com/
+ e/FarmerMac_2026 | Link: https://dealroadshow.com | Password: FarmerMac_20
+ 26</p><p><strong>Deal context:</strong><br>Federal Agricultural Mortgage C
+ orporation (Farmer Mac\, ticker: AGM) is issuing $50 million of Non-Cumula
+ tive Preferred Stock\, Series I (2 million shares at $25 par) in a perpetu
+ al\, fixed-for-life preferred equity offering via a 3(a)(2) exempt format.
+  Price guidance is set at 6.875% area\, with the offering priced at $25.00
+  per share\, listing expected on NYSE\, and settlement on May 19\, 2026 (T
+ +5). Morgan Stanley is acting as sole bookrunner on this today's-business 
+ deal\, with optional redemption available on and after July 17\, 2031\, an
+ d quarterly non-cumulative dividends beginning July 17\, 2026.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

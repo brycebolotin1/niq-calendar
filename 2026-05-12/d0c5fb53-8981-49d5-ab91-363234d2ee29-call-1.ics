@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ab8fcc3899c49663-1@daily.newissueiq
+DTSTAMP:20260513T133200Z
+DTSTART;TZID=America/New_York:20260513T110000
+DTEND;TZID=America/New_York:20260513T114500
+SUMMARY:KENNEDY-WILSON INC — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: KENNEDY-WILSON INC\nRoadshow: URL: https://dealroadshow.com | Entr
+ y Code: KWMAY26 | Direct Link: https://dealroadshow.com/e/KWMAY26 (availab
+ le 10 minutes prior)\n\nDeal context:\nKennedy-Wilson Inc. (KW) is bringin
+ g a $1.8 billion two-tranche senior unsecured offering to market\, consist
+ ing of $900 million in 5NC2 fixed-rate notes and $900 million in 7NC3 fixe
+ d-rate notes\, structured as 144A/Reg S for life with ratings TBD. The dea
+ l is being led by JPMorgan and Bank of America\, with an investor call sch
+ eduled for 11AM on May 12\, 2026 and pricing expected on May 14\, 2026. Pr
+ oceeds will be used to fully redeem the 4.75% Notes due 2029 and 4.75% Not
+ es due 2030\, make a fundamental change offer on the 5% Notes due 2031\, r
+ epay borrowings under the Third A&R Facility\, and for general corporate p
+ urposes.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> KENNEDY-WILSON INC</p><p><strong>Roadshow:</strong> URL: http
+ s://dealroadshow.com | Entry Code: KWMAY26 | Direct Link: https://dealroad
+ show.com/e/KWMAY26 (available 10 minutes prior)</p><p><strong>Deal context
+ :</strong><br>Kennedy-Wilson Inc. (KW) is bringing a $1.8 billion two-tran
+ che senior unsecured offering to market\, consisting of $900 million in 5N
+ C2 fixed-rate notes and $900 million in 7NC3 fixed-rate notes\, structured
+  as 144A/Reg S for life with ratings TBD. The deal is being led by JPMorga
+ n and Bank of America\, with an investor call scheduled for 11AM on May 12
+ \, 2026 and pricing expected on May 14\, 2026. Proceeds will be used to fu
+ lly redeem the 4.75% Notes due 2029 and 4.75% Notes due 2030\, make a fund
+ amental change offer on the 5% Notes due 2031\, repay borrowings under the
+  Third A&amp\;R Facility\, and for general corporate purposes.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
