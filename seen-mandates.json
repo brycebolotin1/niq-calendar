@@ -208,5 +208,10 @@
     "id": "7920c73c-b623-4572-b06e-41c88d74472a",
     "issuerName": "GRANITE CONSTRUCTION INC",
     "alertedAt": "2026-05-18T12:41:14.236Z"
+  },
+  {
+    "id": "6085778b-9694-4355-92c8-ce67c1cea0ce",
+    "issuerName": "FIBRA SOMA",
+    "alertedAt": "2026-05-18T13:21:13.702Z"
   }
 ]
