@@ -213,5 +213,10 @@
     "id": "6085778b-9694-4355-92c8-ce67c1cea0ce",
     "issuerName": "FIBRA SOMA",
     "alertedAt": "2026-05-18T13:21:13.702Z"
+  },
+  {
+    "id": "0acfdfaa-fecf-4619-b2f5-1f499947fd39",
+    "issuerName": "MOBILITY GLOBAL INC",
+    "alertedAt": "2026-05-18T14:31:14.491Z"
   }
 ]
