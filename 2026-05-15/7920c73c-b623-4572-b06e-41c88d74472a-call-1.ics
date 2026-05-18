@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2b12ee27984309f4-1@daily.newissueiq
+DTSTAMP:20260518T132306Z
+DTSTART;TZID=America/New_York:20260518T103000
+DTEND;TZID=America/New_York:20260518T111500
+SUMMARY:GVA — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: GRANITE CONSTRUCTION INC (GVA)\nRoadshow: https://www.netroadshow.
+ com/events/login/1PeTHmohYchmStPrn361wfQ8hip0akIGw9Zqy\n\nDeal context:\nG
+ ranite Construction Incorporated (NYSE: GVA\, market cap $6.1bn)\, one of 
+ the largest diversified\, vertically integrated civil contractors and cons
+ truction materials producers in the U.S.\, is bringing a $600 million 8-ye
+ ar Senior Notes offering (NC-3) to market via a 144A/Reg S for life format
+ . The deal is led by a broad syndicate of six joint bookrunners (BofA\, Ba
+ rclays\, BMO\, WF\, PNC\, JPM) and five co-managers\, with proceeds intend
+ ed primarily to refinance the company's 2028 Convertible Notes and repay r
+ evolving credit facility borrowings. Expected pricing is May 19\, 2025\, f
+ ollowing an investor call held May 18\, 2025 at 10:30 AM ET.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> GRANITE CONSTRUCTION INC (GVA)</p><p><strong>Roadshow:</stron
+ g> https://www.netroadshow.com/events/login/1PeTHmohYchmStPrn361wfQ8hip0ak
+ IGw9Zqy</p><p><strong>Deal context:</strong><br>Granite Construction Incor
+ porated (NYSE: GVA\, market cap $6.1bn)\, one of the largest diversified\,
+  vertically integrated civil contractors and construction materials produc
+ ers in the U.S.\, is bringing a $600 million 8-year Senior Notes offering 
+ (NC-3) to market via a 144A/Reg S for life format. The deal is led by a br
+ oad syndicate of six joint bookrunners (BofA\, Barclays\, BMO\, WF\, PNC\,
+  JPM) and five co-managers\, with proceeds intended primarily to refinance
+  the company's 2028 Convertible Notes and repay revolving credit facility 
+ borrowings. Expected pricing is May 19\, 2025\, following an investor call
+  held May 18\, 2025 at 10:30 AM ET.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
