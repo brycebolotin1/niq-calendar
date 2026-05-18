@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b0b4994452224945-3@daily.newissueiq
+DTSTAMP:20260518T113103Z
+DTSTART;TZID=America/New_York:20260518T083000
+DTEND;TZID=America/New_York:20260518T091500
+SUMMARY:VEON — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: VEON (VEON)\nRoadshow: URL: https://dealroadshow.com | Entry Code 
+ (Active Now): VEON2026 | Direct Link: https://dealroadshow.com/e/VEON2026\
+ n\nDeal context:\nVEON is conducting a US Dollar benchmark bond offering\,
+  with investor engagement facilitated through a Netroadshow virtual roadsh
+ ow platform (entry code VEON2026). The deal is at the Mandate stage\, with
+  the email serving as a roadshow schedule and preliminary offering memoran
+ dum distribution notice via Barclays as bookrunner/manager. No specific de
+ al terms such as size\, tenor\, coupon\, or pricing guidance are provided 
+ in this communication.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> VEON (VEON)</p><p><strong>Roadshow:</strong> URL: https://dea
+ lroadshow.com | Entry Code (Active Now): VEON2026 | Direct Link: https://d
+ ealroadshow.com/e/VEON2026</p><p><strong>Deal context:</strong><br>VEON is
+  conducting a US Dollar benchmark bond offering\, with investor engagement
+  facilitated through a Netroadshow virtual roadshow platform (entry code V
+ EON2026). The deal is at the Mandate stage\, with the email serving as a r
+ oadshow schedule and preliminary offering memorandum distribution notice v
+ ia Barclays as bookrunner/manager. No specific deal terms such as size\, t
+ enor\, coupon\, or pricing guidance are provided in this communication.</p
+ >
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR

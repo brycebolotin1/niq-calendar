@@ -188,5 +188,10 @@
     "id": "e0f4b4a7-f02d-4f30-aa3a-4f0c472900a3",
     "issuerName": "POSCO HOLDINGS INC",
     "alertedAt": "2026-05-13T12:41:20.499Z"
+  },
+  {
+    "id": "7576381c-5124-4c49-88ae-84f897b60c19",
+    "issuerName": "VEON",
+    "alertedAt": "2026-05-18T11:31:11.111Z"
   }
 ]
