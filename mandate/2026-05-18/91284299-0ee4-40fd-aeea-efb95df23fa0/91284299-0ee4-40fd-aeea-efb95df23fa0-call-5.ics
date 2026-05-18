@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//New Issue IQ//Daily Report//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7755beb941698456-5@daily.newissueiq
+DTSTAMP:20260518T114106Z
+DTSTART;TZID=America/New_York:20260518T110000
+DTEND;TZID=America/New_York:20260518T114500
+SUMMARY:ONCRTX — Investor Call
+DESCRIPTION:Reach out to your dealer to confirm timing and availability\n\n
+ Issuer: ONCOR ELECTRIC DELIVERY (ONCRTX)\nRoadshow: URL: https://www.netro
+ adshow.com | Entry Code: ONCOR2026 | Direct Link: https://www.netroadshow.
+ com/event/ONCOR2026\n\nDeal context:\nOncor Electric Delivery Company LLC 
+ is launching a debut Euro-denominated benchmark-sized Junior Subordinated 
+ Notes offering in a 30.5NC5.5 structure\, formatted as 144A/Reg S without 
+ registration rights\, with expected ratings of Baa2/BBB/BBB (Moody's/S&P/F
+ itch). The deal is at the Mandate stage with investor calls commencing May
+  18\, 2026\, arranged by BNP PARIBAS\, Crédit Agricole CIB\, J.P. Morgan\,
+  Mizuho\, and Wells Fargo Securities\, with BNP PARIBAS coordinating roads
+ how logistics. The securities are expected to be listed on the Global Exch
+ ange Market of Euronext Dublin\, marking Oncor's debut in the Junior Subor
+ dinated Notes market in Euro format.
+X-ALT-DESC;FMTTYPE=text/html:<p style="color:#FF0000\;margin:0 0 12px">Reac
+ h out to your dealer to confirm timing and availability</p><p><strong>Issu
+ er:</strong> ONCOR ELECTRIC DELIVERY (ONCRTX)</p><p><strong>Roadshow:</str
+ ong> URL: https://www.netroadshow.com | Entry Code: ONCOR2026 | Direct Lin
+ k: https://www.netroadshow.com/event/ONCOR2026</p><p><strong>Deal context:
+ </strong><br>Oncor Electric Delivery Company LLC is launching a debut Euro
+ -denominated benchmark-sized Junior Subordinated Notes offering in a 30.5N
+ C5.5 structure\, formatted as 144A/Reg S without registration rights\, wit
+ h expected ratings of Baa2/BBB/BBB (Moody's/S&amp\;P/Fitch). The deal is a
+ t the Mandate stage with investor calls commencing May 18\, 2026\, arrange
+ d by BNP PARIBAS\, Crédit Agricole CIB\, J.P. Morgan\, Mizuho\, and Wells 
+ Fargo Securities\, with BNP PARIBAS coordinating roadshow logistics. The s
+ ecurities are expected to be listed on the Global Exchange Market of Euron
+ ext Dublin\, marking Oncor's debut in the Junior Subordinated Notes market
+  in Euro format.</p>
+LOCATION:Conference Call
+END:VEVENT
+END:VCALENDAR
