@@ -203,5 +203,10 @@
     "id": "dcbab5b3-a69a-49cb-bc1a-335902841024",
     "issuerName": "XYLEM INC",
     "alertedAt": "2026-05-18T12:31:22.502Z"
+  },
+  {
+    "id": "7920c73c-b623-4572-b06e-41c88d74472a",
+    "issuerName": "GRANITE CONSTRUCTION INC",
+    "alertedAt": "2026-05-18T12:41:14.236Z"
   }
 ]
